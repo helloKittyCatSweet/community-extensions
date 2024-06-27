@@ -1,0 +1,7 @@
+.project
+.settings
+.classpath
+gwt-unitCache
+target
+.bak
+*.bak
