@@ -6,9 +6,9 @@ Plugin extensions for LogicalDOC Community<br/>
 LogicalDOC Community Extensions add new features to version 8.9.1 of [LogicalDOC](https://www.logicaldoc.com).<br/>
 In particular there are 3 new plugins that provide the following features:
 
-1) logicaldoc-ce-parser (extracting text from many types of office documents)
-2) logicaldoc-ce-ocr (OCR - extract text from images and PDFs for full-text searching)
-3) logicaldoc-ce-converter (conversion of documents to other formats and for previews/thumbnail)
+1. logicaldoc-ce-parser (extracting text from many types of office documents)
+2. logicaldoc-ce-ocr (OCR - extract text from images and PDFs for full-text searching)
+3. logicaldoc-ce-converter (conversion of documents to other formats and for previews/thumbnail)
 
 It is possible to install these extensions on a LogicalDOC Community 8.9.1 by extracting the contents of the .zip archives in the folder
 tomcat/ROOT/WEB-INF/lib of your LogicalDOC installation
@@ -30,21 +30,17 @@ http://docs.logicaldoc.com/en/installation/install-on-ubuntu/install-third-party
 
 Tesseract:<br/>
 after installing Tesseract, configure the path of the executable in the LogicalDOC configuration file /conf/context.properties by modifying the properties<br/>
-<pre>
-  <code>
+```
 ocr.Tesseract.path=C:\\LogicalDOC\\tesseract\\tesseract.exe
 ocr.enabled=true
-  </code>
-</pre>  
+```
 
 LibreOffice: <br/>
 after installing Tesseract, configure the path of the executable in /conf/context.properties by modifying the properties<br/>
-<pre>
-  <code>
+```
 converter.LibreOfficeConverter.enabled=true
 converter.LibreOfficeConverter.path=C:\\Program Files\\LibreOffice
-      </code>
-</pre>  
+```
 
 Note: remember that from version 8.8.3 it is necessary to set the commands that LogicalDOC can launch on the operating system in the /conf/allowed-commands.txt file
 
