@@ -1,0 +1,329 @@
+X-Account-Key: account2
+X-UIDL: 1246615403.17448.mxavas21.fe.aruba.it,S=11250
+X-Mozilla-Status: 0013
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <jacobusreyneke@gmail.com>
+Delivered-To: a.gasparini@logicalobjects.it
+Received: (qmail 17446 invoked by uid 89); 3 Jul 2009 10:03:23 -0000
+Received: by simscan 1.2.0 ppid: 16943, pid: 16967, t: 3.6882s
+         scanners: clamav: 0.90.3/m:/d:3620 spam: 3.2.0
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mxavas21.fe.aruba.it
+X-Spam-Level: *
+X-Spam-Status: No, score=1.1 required=5.0 tests=BAYES_50,HTML_MESSAGE,
+	RDNS_NONE autolearn=disabled version=3.2.5
+Received: from unknown (HELO mail-ew0-f223.google.com) (209.85.219.223)
+  by mxavas21.fe.aruba.it with SMTP; 3 Jul 2009 10:03:19 -0000
+Received: by ewy23 with SMTP id 23so2502882ewy.46
+        for <a.gasparini@logicalobjects.it>; Fri, 03 Jul 2009 03:03:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:in-reply-to:references
+         :date:message-id:subject:from:to:content-type;
+        bh=xP+hPtwns7iBtzAAOJf2pPHuwC/gwbjEccWAK6+Xr/w=;
+        b=GWnR17XoCmUKqYt4nWxkuN+VSs77eKxvUJVZuZPHODpHWBHXUNpHAb+8bagqFkICfM
+         Z/joG3GOLEGI/olzQ66Ir8Jh8+TlYRxW7uyt2wn0N5JC8RCFNBhBaQvZYt5PpODmo4Vh
+         0JHUqt0i2/rgGHBfEHO6G09GIbdVonVgd8xUE=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=mbThrderkvnmAhwUz+xlyPF01HRs6rJKCn1EB//KllpZrpdvf3L2wXVEn5KAuH48Yk
+         54Kax4MZ+tVxyivVXc/EaMEC/VbdOeA7ajaEseAMpzx5vvSMZ6ULfXfSoG+G/Y1SNhNh
+         eyBX9UKx7usTPqHunKFL/2X1QV0nqLKjAlpIo=
+MIME-Version: 1.0
+Received: by 10.216.0.81 with SMTP id 59mr315401wea.77.1246615399376; Fri, 03 
+	Jul 2009 03:03:19 -0700 (PDT)
+In-Reply-To: <4A4CD962.5010904@logicalobjects.it>
+References: <17956676.221246537461762.JavaMail.root@95.110.142.119>
+	 <4A4CD962.5010904@logicalobjects.it>
+Date: Fri, 3 Jul 2009 12:03:19 +0200
+Message-ID: <226b4e0b0907030303t676f800fn27645136b58de612@mail.gmail.com>
+Subject: Re: LogicalDOC DMS prices
+From: Jacobus Reyneke <jacobusreyneke@gmail.com>
+To: Alessandro Gasparini <a.gasparini@logicalobjects.it>
+Content-Type: multipart/alternative; boundary=0016367fa1680d2627046dca4498
+
+--0016367fa1680d2627046dca4498
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Hi there Alessandro,
+
+Thank you very much for the quotation.
+
+I have summarized my client's requirements as follows:
+
+Authentication =96 The ability to verify the identity of the user accessing
+documentation
+
+Access Control =96 Ability to limit authenticated users to view or edit onl=
+y
+those artefacts for which they have been given rights to do so
+
+Non-Repudiation =96 The ability to show without doubt who the person was wh=
+o
+made changes to a document.
+
+Administration =96 To give a special user or set of users the ability to
+manage other users and their rights on the system
+
+Version Control =96 Being able to view or use earlier versions of an artefa=
+ct.
+This means that not only the current copy is kept, but also previous
+versions of the artefact.
+
+Powerful Search =96 Ability to search on name and content of documents.
+
+Safe Storage =96 All artefacts must be well guarded against disaster.
+---------
+
+Does logicaldoc cover all these points. From what I have seen it appears so=
+
+Some questions from my side:
+- Will I be able to remotely administrate the server (LogicalDOC appliance)=
+- What is the storage medium on the LogicalDOC appliance and what type of
+redundancy does it profide? Is it a disk array? Is it easy to backup? etc.
+
+If we ordered the LogicalDOC appliance, will it come preconfigured, and wil=
+l
+I be able to brand the web interface to fit in with the client's existing
+logo, and look and feel?
+
+Please come back to me urgently, I need to submit my proposal today stil.
+
+Kind regards,
+Jacobus
+
+On Thu, Jul 2, 2009 at 5:59 PM, Alessandro Gasparini <
+a.gasparini@logicalobjects.it> wrote:
+
+>  Hi Mr. Jacobus,
+>
+> the following table lists LogicalDOC Enterprise prices.
+>
+>   *Product
+> * *Price
+> *  LogicalDOC EE
+>  =80 1.490,00
+>   LogicalDOC Appliance
+>  =80 2.390,00
+>
+>
+> Both products includes 12 months of Basic Support (web+email+remote throu=
+gh
+> TeamViewer).
+> There are no restrictions in the number of concurrent users nor in the
+> number of documents.
+>
+> Furthermore, we have a new optional plugin for the direct acquisition fro=
+m
+> TWAIN sources (such as scanners),
+> which is sold separately at =80 400.
+>
+> Attached you can find two documents with some use cases and a slideshow
+> presentation that you can use.
+> On the Documentation sub-section of LogicalDOC web-site you can also find
+> some other documents.
+>
+> http://www.logicaldoc.com/cmsPublic/-/websitelogicaldoc/en/products/docum=
+entation.html
+>
+> Best Regards
+>         A. Gasparini
+> ---------------------------------------------------------------
+> Alessandro Gasparini
+> e-mail: a.gasparini@logicalobjects.it
+> ---------------------------------------------------------------
+> Logical Objects snc
+> Via Bonasi, 2/A 41012 Carpi (MO) Italy
+> Tel./Fax. 059 688969
+> web: http://www.logicalobjects.it
+>
+>
+>
+> info@logicaldoc.it ha scritto:
+>
+> Name
+> Jacobus
+>
+> Company
+> Private
+>
+> E-mailjacobusreyneke@gmail.com
+>
+> Message
+> Good day,
+> Will you please send me pricing for the logical drive. This is for a comp=
+any in South Africa. I am a freelance consultant.
+> Please also forward any marketing material that I can use to put together=
+ a proposal to my client.
+> Kind regards,
+> Jacobus
+>
+>
+
+
+--=20
+=93If it=92s to be, it=92s up to me.=94
+
+Deep Waters:
+http://quotes4all.net/authors/henry%20ford/quotes.html
+
+--0016367fa1680d2627046dca4498
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Hi there Alessandro,<br><br>Thank you very much for the quotation.<br><br>I=
+ have summarized my client&#39;s requirements as follows:<br>
+
+
+	<meta http-equiv=3D"CONTENT-TYPE" content=3D"text/html; charset=3Dutf-8">
+	<title></title>
+	<meta name=3D"GENERATOR" content=3D"OpenOffice.org 3.0  (Linux)">
+	<style type=3D"text/css">
+	<!--
+		@page { margin: 2cm }
+		P { margin-bottom: 0.21cm }
+	-->
+	</style>
+
+<p style=3D"margin-bottom: 0cm;">Authentication =96 The ability to
+verify the identity of the user accessing documentation</p>
+<p style=3D"margin-bottom: 0cm;">Access Control =96 Ability to limit
+authenticated users to view or edit only those artefacts for which
+they have been given rights to do so</p>
+<p style=3D"margin-bottom: 0cm;">Non-Repudiation =96 The ability to show
+without doubt who the person was who made changes to a document.</p>
+<p style=3D"margin-bottom: 0cm;">Administration =96 To give a special
+user or set of users the ability to manage other users and their
+rights on the system</p>
+<p style=3D"margin-bottom: 0cm;">Version Control =96 Being able to view
+or use earlier versions of an artefact. This means that not only the
+current copy is kept, but also previous versions of the artefact.</p>
+
+<p style=3D"margin-bottom: 0cm;">Powerful Search =96 Ability to search
+on name and content of documents.</p><p style=3D"margin-bottom: 0cm;">Safe =
+Storage =96 All artefacts must be
+well guarded against disaster.</p>
+---------<br><br>Does logicaldoc cover all these points. From what I have s=
+een it appears so.<br><br>Some questions from my side:<br>- Will I be able =
+to remotely administrate the server (LogicalDOC appliance).<br>- What is th=
+e storage medium on the LogicalDOC appliance and what type of redundancy do=
+es it profide? Is it a disk array? Is it easy to backup? etc.<br>
+<br>If we ordered the LogicalDOC appliance, will it come preconfigured, and=
+ will I be able to brand the web interface to fit in with the client&#39;s =
+existing logo, and look and feel?<br><br>Please come back to me urgently, I=
+ need to submit my proposal today stil.<br>
+<br>Kind regards,<br>Jacobus<br><br><div class=3D"gmail_quote">On Thu, Jul =
+2, 2009 at 5:59 PM, Alessandro Gasparini <span dir=3D"ltr">&lt;<a href=3D"m=
+ailto:a.gasparini@logicalobjects.it">a.gasparini@logicalobjects.it</a>&gt;<=
+/span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"border-left: 1px solid rgb(204, =
+204, 204); margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">
+
+
+ =20
+
+<div bgcolor=3D"#ffffff" text=3D"#000000">
+Hi Mr. Jacobus,<br>
+<br>
+the following table lists LogicalDOC Enterprise prices.<br>
+<br>
+<table border=3D"1" cellpadding=3D"2" cellspacing=3D"2" width=3D"351" heigh=
+t=3D"88">
+  <tbody>
+    <tr>
+      <td bgcolor=3D"#cccccc" valign=3D"top"><b>Product<br>
+      </b></td>
+      <td bgcolor=3D"#cccccc" valign=3D"top"><b>Price<br>
+      </b></td>
+    </tr>
+    <tr>
+      <td valign=3D"top">LogicalDOC EE<br>
+      </td>
+      <td valign=3D"top">=80 1.490,00<br>
+      </td>
+    </tr>
+    <tr>
+      <td valign=3D"top">LogicalDOC Appliance<br>
+      </td>
+      <td valign=3D"top">=80 2.390,00<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<small><small><br>
+<br>
+</small></small>Both products includes 12 months of Basic Support
+(web+email+remote through TeamViewer).<br>
+There are no restrictions in the number of concurrent users nor in the
+number of documents.<br>
+<br>
+<div style=3D"text-align: left;" dir=3D"ltr">Furthermore,
+we have a new optional plugin for the direct acquisition from TWAIN
+sources (such as scanners), <br>
+which is sold separately at
+=80 400.<br>
+<br>
+Attached you can find two documents with some use cases and a slideshow
+presentation that you can use.<br>
+On the Documentation sub-section of LogicalDOC web-site you can also
+find some other documents.<br>
+<a href=3D"http://www.logicaldoc.com/cmsPublic/-/websitelogicaldoc/en/produ=
+cts/documentation.html" target=3D"_blank">http://www.logicaldoc.com/cmsPubl=
+ic/-/websitelogicaldoc/en/products/documentation.html</a><br>
+</div>
+<br>
+Best Regards<br>
+=A0=A0=A0=A0=A0=A0=A0 A. Gasparini<br>
+<div><font size=3D"2" face=3D"Arial, Helvetica, sans-serif">---------------=
+------------------------------------------------<br>
+Alessandro Gasparini<br>
+e-mail: <a href=3D"mailto:a.gasparini@logicalobjects.it" target=3D"_blank">=
+a.gasparini@logicalobjects.it</a><br>
+<font>---------------------------------------------------------------<br>
+Logical Objects snc<br>
+Via Bonasi, 2/A 41012 Carpi (MO) Italy<br>
+Tel./Fax. 059 688969<br>
+web: <a href=3D"http://www.logicalobjects.it" target=3D"_blank">http://www.=
+logicalobjects.it</a>
+<br>
+<br>
+<img width=3D"141" height=3D"43"></font></font>
+</div>
+<br>
+<br>
+<a href=3D"mailto:info@logicaldoc.it" target=3D"_blank">info@logicaldoc.it<=
+/a> ha scritto:
+<blockquote type=3D"cite">
+  <pre>Name
+Jacobus
+
+Company
+Private
+
+E-mail
+<a href=3D"mailto:jacobusreyneke@gmail.com" target=3D"_blank">jacobusreynek=
+e@gmail.com</a>
+
+Message
+Good day,
+Will you please send me pricing for the logical drive. This is for a compan=
+y in South Africa. I am a freelance consultant.
+Please also forward any marketing material that I can use to put together a=
+ proposal to my client.
+Kind regards,
+Jacobus</pre>
+</blockquote>
+</div>
+
+</blockquote></div><br><br clear=3D"all"><br>-- <br>=93If it=92s to be, it=
+=92s up to me.=94<br><br>Deep Waters:<br><a href=3D"http://quotes4all.net/a=
+uthors/henry%20ford/quotes.html">http://quotes4all.net/authors/henry%20ford=
+/quotes.html</a><br>
+
+
+--0016367fa1680d2627046dca4498--
+
+

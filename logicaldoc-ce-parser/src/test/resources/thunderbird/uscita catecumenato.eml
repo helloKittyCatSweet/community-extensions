@@ -1,0 +1,354 @@
+X-Account-Key: account2
+X-UIDL: 1246884684.18949.mxavas2.fe.aruba.it,S=12551
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <cinzia.iori@gmail.com>
+Delivered-To: a.gasparini@logicalobjects.it
+Received: (qmail 18947 invoked by uid 89); 6 Jul 2009 12:51:24 -0000
+Received: by simscan 1.2.0 ppid: 17883, pid: 17935, t: 7.1020s
+         scanners: clamav: 0.90.3/m:/d:3620 spam: 3.2.0
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mxavas2.fe.aruba.it
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.5 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RDNS_NONE autolearn=disabled version=3.2.5
+Received: from unknown (HELO mail-fx0-f219.google.com) (209.85.220.219)
+  by mxavas2.fe.aruba.it with SMTP; 6 Jul 2009 12:51:17 -0000
+Received: by fxm19 with SMTP id 19so2551458fxm.46
+        for <a.gasparini@logicalobjects.it>; Mon, 06 Jul 2009 05:51:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:in-reply-to:references
+         :date:message-id:subject:from:to:cc:content-type;
+        bh=MdEeGUbknpsSkeaze8XqYyUJxHz37l/0aY25cEW3j+E=;
+        b=lwe7iwFubsdSdEQmfTRlv+XcU+oYw9jkZEIzskWBR4YFEP1VAR16VmkY84ouNT8XqR
+         vrONTCIKwlasIhGCP4/VYJu4k66xZxzl3v8/K8M2Tm/AK/Y8a3oZi3IZaiVvF7QPuiHW
+         ZPVNZiUJ5KUA51w1pKVi/TBjY37RH4qxeF7wc=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        b=ZfWNQrx3FfakEc/WJdRvuS84AqtVACW/o19enWrxB5NTxGGgX3g9C/9HbdfaToLUsD
+         VaiQee6QA5JaX7mK9gjfbtMXIG8aKSlG6A7bSWY5+keAfDjdHmZ+AUj1P2/YSLuE1LVk
+         DP0UOOVJPpv4o/faghDQIv4tHeUD98jxeXYec=
+MIME-Version: 1.0
+Received: by 10.223.108.15 with SMTP id d15mr1954134fap.105.1246884679521; 
+	Mon, 06 Jul 2009 05:51:19 -0700 (PDT)
+In-Reply-To: <D5E992AFA8C64E08A0DD156F70E5FF4C@gherardi3a974a>
+References: <DF310A295C7A4D5FA67ED1BDCC2FCAB8@gherardi3a974a>
+	 <F2288EE7-15F4-48AB-88B1-AA154E4BCD3A@likeashadow.com>
+	 <F907ABD7942F4DAA8068BD7BC1D21C67@gherardi3a974a>
+	 <9b4891e50906281037i3e972f69y2740025707437bfa@mail.gmail.com>
+	 <e78900b20906291319i15672410xe4f23889bc3439ce@mail.gmail.com>
+	 <9b4891e50906300227n58e7f2b7n2bbf94b0ab03e83d@mail.gmail.com>
+	 <1520D30A-46C6-4002-A83E-594A49F32B9C@likeashadow.com>
+	 <D5E992AFA8C64E08A0DD156F70E5FF4C@gherardi3a974a>
+Date: Mon, 6 Jul 2009 14:51:19 +0200
+Message-ID: <e78900b20907060551h1fc175d5gd0e794aeed240b73@mail.gmail.com>
+Subject: Re: uscita catecumenato
+From: Cinzia Iori <cinzia.iori@gmail.com>
+To: Paola e Carlo Gherardi <carlo.paola@alice.it>
+Cc: Giulia Guidetti <kocci@likeashadow.com>, Antonia Corradi <anto.corradi@gmail.com>, 
+	Alessandro Gasparini <a.gasparini@logicalobjects.it>, Riccardo Rossi <rikiel@interfree.it>, 
+	Paolo e Valeria Giubertoni <vale.paolo@alice.it>, Stefano Zona <stefano.zona@unimore.it>
+Content-Type: multipart/alternative; boundary=001636c5a57b661854046e08f6ad
+
+--001636c5a57b661854046e08f6ad
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Ciao a tutti!
+
+ok per il 20!
+
+Cinzia e Richi
+
+Il giorno 06 Luglio 2009 08.35, Paola e Carlo Gherardi <carlo.paola@alice.i=
+t
+> ha scritto:
+
+> Ciao a tutti.
+> Siamo stati via una settimana e non abbiamo letto la posta, quindi vedo
+> solo oralo scambio di messaggi.
+> Se ho capito bene: il 17 non va bene e le date possibili sono il 20 o il
+> 22.
+> Per noi il 20 andrebbe meglio, invece il 22 probabilmente non saremo a
+> casa.
+> Ci date conferma?
+> Io sento da Valeria e Paolo.
+> Ciao Paola
+> ----- Original Message ----- From: "Giulia Guidetti" <
+> kocci@likeashadow.com>
+> To: "Antonia Corradi" <anto.corradi@gmail.com>
+> Cc: "Cinzia Iori" <cinzia.iori@gmail.com>; "Paola e Carlo Gherardi" <
+> carlo.paola@alice.it>; "Alessandro Gasparini" <
+> a.gasparini@logicalobjects.it>; "Riccardo Rossi" <rikiel@interfree.it>;
+> "Paolo e Valeria Giubertoni" <vale.paolo@alice.it>; "Stefano Zona" <
+> stefano.zona@unimore.it>
+> Sent: Wednesday, July 01, 2009 12:50 AM
+> Subject: Re: uscita catecumenato
+>
+>
+>
+> anche per me vanno bene entrambe le date...
+> Sento Ste e poi vi dico..
+> Notte
+>
+> Giulia
+>
+>  Per me vanno bene sia il 20 che il 22.
+>> grazie
+>> ciao
+>> Antonia
+>>
+>> Il giorno 29 giugno 2009 22.19, Cinzia Iori<cinzia.iori@gmail.com>  ha
+>> scritto:
+>>
+>>> Propongo alcune date:
+>>>
+>>> Luned=EC 20? Mercoled=EC 22?
+>>>
+>>> Il giorno 28 giugno 2009 19.37, Antonia Corradi <acorradi@email.it>  ha
+>>> scritto:
+>>>
+>>>>
+>>>> Ciao,
+>>>> volevo chiedere se era possibile spostare la preparazione della
+>>>> vaglia, il 17 abbiamo un impegno.
+>>>> Durante la settimana di solito abbiamo meno impegni la sera, se =E8 un
+>>>> grosso problema fateci sapere.
+>>>> Ciao
+>>>> Antonia
+>>>>
+>>>> Il giorno 21 giugno 2009 21.50, Paola e Carlo
+>>>> Gherardi<carlo.paola@alice.it> ha scritto:
+>>>>
+>>>>> Ciao.
+>>>>> Visto che avete dato la vostra disponibilit=E0 per la veglia, ci trov=
+iamo
+>>>>> il
+>>>>> 17 luglio alle ore 21.00 presso casa Giubertoni per prepararla. Ci
+>>>>> saranno
+>>>>> anche Cinzia e Riccardo e Alessandro e Antonia.
+>>>>> Ci sarete?
+>>>>> Aspettimo notizie. paola
+>>>>>
+>>>>> ----- Original Message -----
+>>>>> From: Giulia Guidetti
+>>>>> To: Paola e Carlo Gherardi
+>>>>> Sent: Sunday, June 07, 2009 10:49 PM
+>>>>> Subject: Re: uscita catecumenato
+>>>>> Ciao Paola..noi purtroppo il 21 siamo al matrimonio di una cugina  di
+>>>>> Ste...
+>>>>> Ci dispiace un sacco non venire, ma va cos=EC...
+>>>>> In ogni caso noi ci siamo per preparare la veglia...!
+>>>>> Ci sentiamo
+>>>>> Giulia
+>>>>>
+>>>>>
+>>>>> Il giorno 07/giu/09, alle ore 13:10, Paola e Carlo Gherardi ha scritt=
+o:
+>>>>>
+>>>>> Ciao a tutti.
+>>>>> Vi ricordiamo che, prima delle vacanze e dei vari campi, abbiamo un
+>>>>> ultimo
+>>>>> appuntamento nel cammino di catecumenato.
+>>>>> Il 21 giugno 2009 faremo l'uscita conclusiva dei tre anni  all'abbazi=
+a
+>>>>> di Maguzzano, localit=E0 Lonato (porteremo bustine di zucchero per  c=
+hi
+>>>>> ha
+>>>>> problemi di pressione bassa).
+>>>>> Tema: "un amore a misura di Cristo"
+>>>>> Ci ritroviamo quindi presso la stazione delle corriere di Carpi
+>>>>> alle 8.00.
+>>>>> Vi preghiamo di darci conferma della vostra presenza o di  comunicarc=
+i
+>>>>> se
+>>>>> vi
+>>>>> muovete in modo autonomo.
+>>>>> Speriamo che veniate tutti, ma proprio tutti (anche quelli che si  so=
+no
+>>>>> gi=E0
+>>>>> sposati!): l'uscita sar=E0 anche un momento per salutarci e  conclude=
+re
+>>>>> questo
+>>>>> cammino, in attesa di rivederci a tutte le iniziative unitarie e adul=
+ti
+>>>>> dell'Azione cattolica.
+>>>>> Attendiamo vostre notizie (magari ci potete confermare alla festa
+>>>>> dell'AC in
+>>>>> questi fine settimana).
+>>>>> Ciao a tutti.  quelli del cat
+>>>>>
+>>>>> P.S.: in settembre faremo la veglia per il matrimonio di Carlotta e
+>>>>> Francesco. All'uscita raccolgieremo le disponibilit=E0 per  prepararl=
+a.
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>
+>>>
+>>
+>
+>
+
+--001636c5a57b661854046e08f6ad
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Ciao a tutti!<br><br>ok per il 20!<br><br>Cinzia e Richi<br><br><div class=
+=3D"gmail_quote">Il giorno 06 Luglio 2009 08.35, Paola e Carlo Gherardi <sp=
+an dir=3D"ltr">&lt;<a href=3D"mailto:carlo.paola@alice.it">carlo.paola@alic=
+e.it</a>&gt;</span> ha scritto:<br>
+<blockquote class=3D"gmail_quote" style=3D"border-left: 1px solid rgb(204, =
+204, 204); margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">Ciao a tutti.<br>
+Siamo stati via una settimana e non abbiamo letto la posta, quindi vedo sol=
+o oralo scambio di messaggi.<br>
+Se ho capito bene: il 17 non va bene e le date possibili sono il 20 o il 22=
+<br>
+Per noi il 20 andrebbe meglio, invece il 22 probabilmente non saremo a casa=
+<br>
+Ci date conferma?<br>
+Io sento da Valeria e Paolo.<br>
+Ciao Paola<br>
+----- Original Message ----- From: &quot;Giulia Guidetti&quot; &lt;<a href=
+=3D"mailto:kocci@likeashadow.com" target=3D"_blank">kocci@likeashadow.com</=
+a>&gt;<br>
+To: &quot;Antonia Corradi&quot; &lt;<a href=3D"mailto:anto.corradi@gmail.co=
+m" target=3D"_blank">anto.corradi@gmail.com</a>&gt;<br>
+Cc: &quot;Cinzia Iori&quot; &lt;<a href=3D"mailto:cinzia.iori@gmail.com" ta=
+rget=3D"_blank">cinzia.iori@gmail.com</a>&gt;; &quot;Paola e Carlo Gherardi=
+&quot; &lt;<a href=3D"mailto:carlo.paola@alice.it" target=3D"_blank">carlo.=
+paola@alice.it</a>&gt;; &quot;Alessandro Gasparini&quot; &lt;<a href=3D"mai=
+lto:a.gasparini@logicalobjects.it" target=3D"_blank">a.gasparini@logicalobj=
+ects.it</a>&gt;; &quot;Riccardo Rossi&quot; &lt;<a href=3D"mailto:rikiel@in=
+terfree.it" target=3D"_blank">rikiel@interfree.it</a>&gt;; &quot;Paolo e Va=
+leria Giubertoni&quot; &lt;<a href=3D"mailto:vale.paolo@alice.it" target=3D=
+"_blank">vale.paolo@alice.it</a>&gt;; &quot;Stefano Zona&quot; &lt;<a href=
+=3D"mailto:stefano.zona@unimore.it" target=3D"_blank">stefano.zona@unimore.=
+it</a>&gt;<br>
+
+Sent: Wednesday, July 01, 2009 12:50 AM<br>
+Subject: Re: uscita catecumenato<div><div></div><div class=3D"h5"><br>
+<br>
+<br>
+anche per me vanno bene entrambe le date...<br>
+Sento Ste e poi vi dico..<br>
+Notte<br>
+<br>
+Giulia<br>
+<br>
+<blockquote class=3D"gmail_quote" style=3D"border-left: 1px solid rgb(204, =
+204, 204); margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">
+Per me vanno bene sia il 20 che il 22.<br>
+grazie<br>
+ciao<br>
+Antonia<br>
+<br>
+Il giorno 29 giugno 2009 22.19, Cinzia Iori&lt;<a href=3D"mailto:cinzia.ior=
+i@gmail.com" target=3D"_blank">cinzia.iori@gmail.com</a>&gt; =A0ha scritto:=
+<br>
+<blockquote class=3D"gmail_quote" style=3D"border-left: 1px solid rgb(204, =
+204, 204); margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">
+Propongo alcune date:<br>
+<br>
+Luned=EC 20? Mercoled=EC 22?<br>
+<br>
+Il giorno 28 giugno 2009 19.37, Antonia Corradi &lt;<a href=3D"mailto:acorr=
+adi@email.it" target=3D"_blank">acorradi@email.it</a>&gt; =A0ha<br>
+scritto:<br>
+<blockquote class=3D"gmail_quote" style=3D"border-left: 1px solid rgb(204, =
+204, 204); margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">
+<br>
+Ciao,<br>
+volevo chiedere se era possibile spostare la preparazione della<br>
+vaglia, il 17 abbiamo un impegno.<br>
+Durante la settimana di solito abbiamo meno impegni la sera, se =E8 un<br>
+grosso problema fateci sapere.<br>
+Ciao<br>
+Antonia<br>
+<br>
+Il giorno 21 giugno 2009 21.50, Paola e Carlo<br>
+Gherardi&lt;<a href=3D"mailto:carlo.paola@alice.it" target=3D"_blank">carlo=
+paola@alice.it</a>&gt; ha scritto:<br>
+<blockquote class=3D"gmail_quote" style=3D"border-left: 1px solid rgb(204, =
+204, 204); margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">
+Ciao.<br>
+Visto che avete dato la vostra disponibilit=E0 per la veglia, ci troviamo<b=
+r>
+il<br>
+17 luglio alle ore 21.00 presso casa Giubertoni per prepararla. Ci<br>
+saranno<br>
+anche Cinzia e Riccardo e Alessandro e Antonia.<br>
+Ci sarete?<br>
+Aspettimo notizie. paola<br>
+<br>
+----- Original Message -----<br>
+From: Giulia Guidetti<br>
+To: Paola e Carlo Gherardi<br>
+Sent: Sunday, June 07, 2009 10:49 PM<br>
+Subject: Re: uscita catecumenato<br>
+Ciao Paola..noi purtroppo il 21 siamo al matrimonio di una cugina =A0di<br>
+Ste...<br>
+Ci dispiace un sacco non venire, ma va cos=EC...<br>
+In ogni caso noi ci siamo per preparare la veglia...!<br>
+Ci sentiamo<br>
+Giulia<br>
+<br>
+<br>
+Il giorno 07/giu/09, alle ore 13:10, Paola e Carlo Gherardi ha scritto:<br>
+<br>
+Ciao a tutti.<br>
+Vi ricordiamo che, prima delle vacanze e dei vari campi, abbiamo un<br>
+ultimo<br>
+appuntamento nel cammino di catecumenato.<br>
+Il 21 giugno 2009 faremo l&#39;uscita conclusiva dei tre anni =A0all&#39;ab=
+bazia<br>
+di Maguzzano, localit=E0 Lonato (porteremo bustine di zucchero per =A0chi h=
+a<br>
+problemi di pressione bassa).<br>
+Tema: &quot;un amore a misura di Cristo&quot;<br>
+Ci ritroviamo quindi presso la stazione delle corriere di Carpi<br>
+alle 8.00.<br>
+Vi preghiamo di darci conferma della vostra presenza o di =A0comunicarci se=
+<br>
+vi<br>
+muovete in modo autonomo.<br>
+Speriamo che veniate tutti, ma proprio tutti (anche quelli che si =A0sono<b=
+r>
+gi=E0<br>
+sposati!): l&#39;uscita sar=E0 anche un momento per salutarci e =A0conclude=
+re<br>
+questo<br>
+cammino, in attesa di rivederci a tutte le iniziative unitarie e adulti<br>
+dell&#39;Azione cattolica.<br>
+Attendiamo vostre notizie (magari ci potete confermare alla festa<br>
+dell&#39;AC in<br>
+questi fine settimana).<br>
+Ciao a tutti. =A0quelli del cat<br>
+<br>
+P.S.: in settembre faremo la veglia per il matrimonio di Carlotta e<br>
+Francesco. All&#39;uscita raccolgieremo le disponibilit=E0 per =A0prepararl=
+a.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</blockquote></blockquote>
+<br>
+<br>
+</blockquote>
+<br>
+</blockquote>
+<br>
+<br>
+</div></div></blockquote></div><br>
+
+--001636c5a57b661854046e08f6ad--
+
+

@@ -1,0 +1,158 @@
+X-Account-Key: account2
+X-UIDL: 1243848690.6525.mxavas10.fe.aruba.it,S=7909
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <a.gasparini@logicalobjects.it>
+Delivered-To: a.gasparini@logicalobjects.it
+Received: (qmail 6520 invoked by uid 89); 1 Jun 2009 09:31:30 -0000
+Delivered-To: nokiashop.it-nokiap.re@nokiashop.it
+Received: (qmail 6510 invoked by uid 89); 1 Jun 2009 09:31:30 -0000
+Received: by simscan 1.2.0 ppid: 6349, pid: 6360, t: 1.3726s
+         scanners: clamav: 0.90.3/m:/d:3620 spam: 3.2.0
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mxavas10.fe.aruba.it
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.6 required=5.0 tests=BAYES_50,HTML_IMAGE_ONLY_12,
+	HTML_MESSAGE,RDNS_NONE autolearn=disabled version=3.2.5
+Received: from unknown (HELO smtp5.aruba.it) (62.149.128.206)
+  by mxavas10.fe.aruba.it with SMTP; 1 Jun 2009 09:31:29 -0000
+Received: (qmail 4700 invoked by uid 89); 1 Jun 2009 09:31:28 -0000
+Received: from unknown (HELO ?192.168.0.234?) (a.gasparini@logicalobjects.it@87.29.232.99)
+  by smtp5.aruba.it with SMTP; 1 Jun 2009 09:31:28 -0000
+Message-ID: <4A239FF1.3030100@logicalobjects.it>
+Date: Mon, 01 Jun 2009 11:31:29 +0200
+From: Alessandro Gasparini <a.gasparini@logicalobjects.it>
+User-Agent: Thunderbird 2.0.0.21 (Windows/20090302)
+MIME-Version: 1.0
+To: nokiap.re@nokiashop.it
+Subject: test autorisponditore
+Content-Type: multipart/alternative;
+ boundary="------------090206050008000504060907"
+
+This is a multi-part message in MIME format.
+--------------090206050008000504060907
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 7bit
+
+prova invio autorisponditore
+-- 
+---------------------------------------------------------------
+Alessandro Gasparini
+e-mail: a.gasparini@logicalobjects.it <mailto:a.gasparini@logicalobjects.it>
+---------------------------------------------------------------
+Logical Objects snc
+Via Bonasi, 2/A 41012 Carpi (MO) Italy
+Tel./Fax. 059 688969
+web: http://www.logicalobjects.it
+
+
+--------------090206050008000504060907
+Content-Type: multipart/related;
+ boundary="------------000107050902010503060201"
+
+
+--------------000107050902010503060201
+Content-Type: text/html; charset=ISO-8859-15
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+prova invio autorisponditore<br>
+<div class="moz-signature">-- <br>
+<font face="Arial, Helvetica, sans-serif" size="2">---------------------------------------------------------------<br>
+Alessandro Gasparini<br>
+e-mail: <a href="mailto:a.gasparini@logicalobjects.it">a.gasparini@logicalobjects.it</a><br>
+<font>---------------------------------------------------------------<br>
+Logical Objects snc<br>
+Via Bonasi, 2/A 41012 Carpi (MO) Italy<br>
+Tel./Fax. 059 688969<br>
+web: <a href="http://www.logicalobjects.it">http://www.logicalobjects.it</a>
+<br>
+<br>
+<img src="cid:part1.06020502.00060600@logicalobjects.it" height="43"
+ width="141"></font></font>
+</div>
+</body>
+</html>
+
+--------------000107050902010503060201
+Content-Type: image/gif;
+ name="Logical-Objects_plain_sm.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <part1.06020502.00060600@logicalobjects.it>
+Content-Disposition: inline;
+ filename="Logical-Objects_plain_sm.gif"
+
+R0lGODlhjQArAOf/ABg/ZxlAaCI8ZiM9ZxtBaRxBaiQ+aB1Cax5DbCVAah9EbSFFbiJGbyNH
+cCRIcSVJciZJcy1IbS5Jbi9KbzBLcDFMcTJNcjNOczRPdDVPdTZQdjdRdzhSeDpUejtVezxW
+fD5YfT9Zfz9be0BagEFbgUBdfEJcgkdbfEFefUJff0ldfkRhgEVhgUZigkdjg0llhU9jhEpm
+h0xoiU1pik5qi09rjFBsjVFtjlJuj1duilNvkFVxkllxjFpyjVtzjl10kF52kV92k2F4lWJ5
+lmN6l2R7mGV8mWZ9mmh/m2mAnWuCn2yDoG2EoW6FonOGnnSHn3WIoHaJoXeKoniLo3qNpHyP
+p32QqH6RqX+SqoCTq4GUrIOWroSYr4aZsYqZrIeasouarYybro2cr46dsJCfsZGhs/+HFJKi
+tP+HIJOjtf+IIpSkt/6MIpaluJemuf+NJP+OJf+PJpmou/+PL5uqvf6TMJyrvv+UMZ2sv/+V
+Mv+WO5+uwf2YO6CvwqGww/+aPP+bPaKyxaayv/+cRam0wv6gR/+hT6u2xP+iUP+jUay4xa25
+xq66x/+nUq+7yLC8yv+pWrG9y7K+zLO/zf6tY7TAzv+vZLXBz7bC0P+wa/+xbLjD0f+ybbnE
+0v21dLvH1P+3drzI1v+5ecHJ0v+6f8LL08PM1P++gcTN1f6/iMbO1v/AicfP18jQ2P3Ei8nR
+2srS2/3GksvT3P7Hk//IlMzV3f/Jlc3W3v/KnM7X3//Lnc/Y4P/Mnv7OntDZ4dLa4tPb5P7R
+ptTc5f/Sp9Xd5tbe5//UsP/Wstjg6f3YsvzZuNni6tzi5N/k5v/cu+Dl6OHm6f/fxOLn6uPo
+6//hxv3jxuTp7OXq7f3lzubs7uft7//n0P/o0enu8P7o1//p2Orv8v/q2evw8//s2+zx9O3y
+9e7z9vzx5O/19/7y5fD2+PL3+f/05/317fP4+/727vT5/P/37/X6/f/48fb7/v/58vr8+f/6
++ff9//v9+vj+///8+vn////9+/z/+/7//CH+FUNyZWF0ZWQgd2l0aCBUaGUgR0lNUAAsAAAA
+AI0AKwAACP4A//3LR4+ePoEIEypcyLChw4cO8dHLB7GixYv/JBbcSA/fw19QTpzwAg2jyZMV
+wX1RcQJJK5QwK5oiIrKmSBh+0DGkB0MAAAEEksQcivLeGAQCBBiIYY2oU4HgTiSdSjWBI4b3
+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
+--------------000107050902010503060201--
+
+--------------090206050008000504060907--
+
+

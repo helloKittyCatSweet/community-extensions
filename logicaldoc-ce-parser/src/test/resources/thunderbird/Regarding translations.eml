@@ -1,0 +1,67 @@
+X-Account-Key: account2
+X-UIDL: 1232230505.7664.mxavas10.fe.aruba.it,S=2857
+X-Mozilla-Status: 0003
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <rainer.ottmueller@googlemail.com>
+Delivered-To: a.gasparini@logicalobjects.it
+Received: (qmail 7662 invoked by uid 89); 17 Jan 2009 22:15:05 -0000
+Received: by simscan 1.2.0 ppid: 7472, pid: 7531, t: 1.8217s
+         scanners: clamav: 0.90.3/m:/d:3620 spam: 3.2.0
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mxavas10.fe.aruba.it
+X-Spam-Level: *
+X-Spam-Status: No, score=1.1 required=5.0 tests=BAYES_50,HTML_MESSAGE,
+	RDNS_NONE autolearn=disabled version=3.2.5
+Received: from unknown (HELO qb-out-1314.google.com) (72.14.204.172)
+  by mxavas10.fe.aruba.it with SMTP; 17 Jan 2009 22:15:03 -0000
+Received: by qb-out-1314.google.com with SMTP id q17so1033080qbq.38
+        for <a.gasparini@logicalobjects.it>; Sat, 17 Jan 2009 14:15:04 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=gamma;
+        h=domainkey-signature:received:received:message-id:date:from:to
+         :subject:mime-version:content-type;
+        bh=Fjqg95ROaaELW9BtFY7UPCkJhxXGH8lsXO6lLBjFF2A=;
+        b=qbVEael/uF8bkYBvX+YI8jomH/Nv8g+Oi+e5zqf+xys5Y/ngQNyyoXDhL7QRQt3YbN
+         o6WMJRGsPWYl0dWGU1ItiqhM8cBnPGT3wCvIuwM3I8KuSfMPEaXhoaB9QMfmNpSkamBX
+         BZJy9tklCvfQ+vv4wgAaHFeN3P8C0qkI91c7U=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=googlemail.com; s=gamma;
+        h=message-id:date:from:to:subject:mime-version:content-type;
+        b=x0XzgcmkKC/t7gZVXG2iuNXUGdFZodcPb8Kl2o4BiHdxoEvVvdjFR9M90SWmPX4WyK
+         99kU9ZDmvrLu8VzWZGM8+B9LuxLmg2emubqX3PwkYzxu90AJzsxI2b417bgkyYCswXEB
+         A92EyuO7wfYfOef2d4JiVCCsb5LK8p4X6JUOM=
+Received: by 10.142.125.4 with SMTP id x4mr1035151wfc.223.1232230504117;
+        Sat, 17 Jan 2009 14:15:04 -0800 (PST)
+Received: by 10.143.3.3 with HTTP; Sat, 17 Jan 2009 14:15:04 -0800 (PST)
+Message-ID: <86eb6b1b0901171415y21b51009paf03bea368b80015@mail.gmail.com>
+Date: Sat, 17 Jan 2009 23:15:04 +0100
+From: "=?UTF-8?Q?Rainer_Ottm=C3=BCller?=" <rainer.ottmueller@googlemail.com>
+To: a.gasparini@logicalobjects.it
+Subject: Regarding translations
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_7158_1668598.1232230504112"
+
+------=_Part_7158_1668598.1232230504112
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Hi Alessandro,
+As I am runing all of Cygwin under XP and subversion is included in Cygwin
+it is probably easiest to make translations as a modification by SVN. Don't
+you agree? In case, I suggest this way.
+
+Rainer
+
+------=_Part_7158_1668598.1232230504112
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Hi Alessandro,<div><br></div><div>As I am runing all of Cygwin under XP and subversion is included in Cygwin it is probably easiest to make translations as a modification by SVN. Don&#39;t you agree? In case, I suggest this way.</div>
+<div><br></div><div>Rainer</div>
+
+------=_Part_7158_1668598.1232230504112--
+
+

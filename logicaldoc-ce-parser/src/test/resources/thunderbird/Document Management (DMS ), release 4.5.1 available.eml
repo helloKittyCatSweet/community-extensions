@@ -1,0 +1,132 @@
+X-Account-Key: account2
+X-UIDL: 1248949856.22797.mxavas17.fe.aruba.it,S=6192
+X-Mozilla-Status: 0013
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <jesus.marin@aplsoftware.com>
+Delivered-To: a.gasparini@logicalobjects.it
+Received: (qmail 22795 invoked by uid 89); 30 Jul 2009 10:30:56 -0000
+Received: by simscan 1.2.0 ppid: 22476, pid: 22513, t: 2.2468s
+         scanners: clamav: 0.90.3/m: spam: 3.2.0
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mxavas17.fe.aruba.it
+X-Spam-Level: *
+X-Spam-Status: No, score=1.1 required=5.0 tests=BAYES_50,HTML_MESSAGE,
+	RDNS_NONE autolearn=disabled version=3.2.5
+Received: from unknown (HELO linux.aplsoftware.com) (213.231.64.189)
+  by mxavas17.fe.aruba.it with SMTP; 30 Jul 2009 10:30:54 -0000
+Received: from localhost (localhost [127.0.0.1])
+	by linux.aplsoftware.com (Postfix) with ESMTP id DE390213CF2
+	for <a.gasparini@logicalobjects.it>; Thu, 30 Jul 2009 11:31:12 +0100 (WEST)
+X-Virus-Scanned: by amavisd-new at aplsoftware.com
+Received: from linux.aplsoftware.com ([127.0.0.1])
+	by localhost (mail.aplsoftware.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id RKa5hsmeorHo for <a.gasparini@logicalobjects.it>;
+	Thu, 30 Jul 2009 11:31:12 +0100 (WEST)
+Received: from [192.168.1.2] (xpjesus.aplsoftware.com [192.168.1.2])
+	(Authenticated sender: jesus)
+	by linux.aplsoftware.com (Postfix) with ESMTPA id 2945B213CF1
+	for <a.gasparini@logicalobjects.it>; Thu, 30 Jul 2009 11:31:12 +0100 (WEST)
+Message-ID: <4A71764F.4010508@aplsoftware.com>
+Date: Thu, 30 Jul 2009 11:30:39 +0100
+From: =?ISO-8859-1?Q?Jes=FAs_Mar=EDn?= <jesus.marin@aplsoftware.com>
+User-Agent: Thunderbird 2.0.0.22 (Windows/20090605)
+MIME-Version: 1.0
+To: Alessandro Gasparini <a.gasparini@logicalobjects.it>
+Subject: Re: [Logicaldoc-devel] LogicalDOC - Document Management (DMS ),	release
+ 4.5.1 available
+References: <4A66EFC5.2020402@logicalobjects.it>
+In-Reply-To: <4A66EFC5.2020402@logicalobjects.it>
+Content-Type: multipart/mixed;
+ boundary="------------040809030907030009030704"
+
+This is a multi-part message in MIME format.
+--------------040809030907030009030704
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type">
+</head>
+<body bgcolor="#ffffff" text="#000000">
+Hola, Alessandro:<br>
+Retomo el tema tras terminar estudios...<br>
+Algo ha pasado con logicaldoc-web/src/main/resources/i18n que est&aacute;n la
+mayor parte de los mensajes mal.<br>
+He mirado la revisi&oacute;n anterior "694" y ah&iacute; parecen estar bien...<br>
+&iquest;Lo arreglas t&uacute; o lo hago yo?<br>
+De todas formas, los mensajes que pertenece a ICESOFT, ya la puse en la
+versi&oacute;n 1.8 de ellos... luego habr&iacute;a que quitarlos.<br>
+salu2<br>
+<br>
+<div class="moz-signature">-- <br>
+<pre>                   |||||                               \  |||  /
+                    . .                                -o . . o-
+                     l              \|||/              /   l   \
+                     -               . .                   -
+     .----------oOO-----OOo-------ooo-@-ooo-----------oOO-----OOo-----------.
+     | Name...: Jes&uacute;s Mar&iacute;n Ruiz              Company.: A.P.L. software S.L.|
+     |  <a class="moz-txt-link-freetext" href="mailto:jesus.marin@aplsoftware.com">mailto:jesus.marin@aplsoftware.com</a>    Phone...: +34 922 290351      |
+     | Address: C/ Ram&oacute;n y Cajal,3            <a class="moz-txt-link-abbreviated" href="http://WWW.....:">WWW.....:</a> <a class="moz-txt-link-abbreviated" href="http://www.aplsoftware.com">www.aplsoftware.com</a> |
+     |          Edf.Salesianos-Local 10                                     |
+     | Fax....: +34 922 240734                                              |
+     | City...: Santa Cruz de Tenerife (SPAIN)                              |
+     | ZipCode: 38003                                                       |
+     `----------------------------------------------------------------------'
+                 | |  | |         &lt;__| |__&gt;             | | | |
+      _________(___|__|___)___________________________(___|_|___)___________
+</pre>
+<p
+ style="font-family: arial; font-style: normal; font-variant: normal; font-weight: bold; font-size: 10px; line-height: normal; font-size-adjust: none; font-stretch: normal;">
+"We are The Microsoft. You will be assimilated. Resistance is Futile"
+</p>
+<table border="1">
+  <p
+ style="font-family: arial; font-style: normal; font-variant: normal; font-weight: normal; font-size: 10px; line-height: normal; font-size-adjust: none; font-stretch: normal;">
+Este mensaje se dirige exclusivamente a su destinatario y puede
+contener informaci&oacute;n privilegiada o confidencial. Si no es vd. el
+destinatario indicado, queda notificado de que la utilizaci&oacute;n,
+divulgaci&oacute;n y/o copia sin autorizaci&oacute;n est&aacute; prohibida en virtud de la
+legislaci&oacute;n vigente. Si ha recibido este mensaje por error, le rogamos
+que nos lo comunique inmediatamente por esta misma v&iacute;a y proceda a su
+destrucci&oacute;n.
+  </p>
+  <p
+ style="font-family: arial; font-style: normal; font-variant: normal; font-weight: normal; font-size: 10px; line-height: normal; font-size-adjust: none; font-stretch: normal;">
+This message is intended exclusively for its addressee and may contain
+information that is CONFIDENTIAL and protected by professional
+privilege. If you are not the intended recipient you are hereby
+notified that any dissemination, copy or disclosure of this
+communication is strictly prohibited by law. If this message has been
+received in error, please immediately notify us via e-mail and delete
+it.
+  </p>
+</table>
+</div>
+</body>
+</html>
+
+--------------040809030907030009030704
+Content-Type: text/x-vcard; charset=utf-8;
+ name="jesus_marin.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="jesus_marin.vcf"
+
+begin:vcard
+fn;quoted-printable:Jes=C3=BAs Mar=C3=ADn Ruiz
+n;quoted-printable;quoted-printable:Mar=C3=ADn Ruiz;Jes=C3=BAs
+org:APL software, SL
+adr;quoted-printable:Edf. Salesianos, L10;;Ram=C3=B3n y Cajal, 3;Santa Cruz de Tenerife;TF;38003;Spain
+email;internet:Jesus.Marin@aplsoftware.com
+title:Administrador
+x-mozilla-html:TRUE
+url:www.aplsoftware.com
+version:2.1
+end:vcard
+
+
+--------------040809030907030009030704--
+
+

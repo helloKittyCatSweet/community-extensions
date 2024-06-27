@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<!DOCTYPE plugin [
+<!ELEMENT plugin (doc?, attributes?, requires?, runtime?,
+                  (extension-point|extension)*)>
+<!ATTLIST plugin id         CDATA #REQUIRED>
+<!ATTLIST plugin version    CDATA #REQUIRED>
+<!ATTLIST plugin vendor     CDATA #IMPLIED>
+<!ATTLIST plugin class      CDATA #IMPLIED>
+<!ATTLIST plugin docs-path  CDATA #IMPLIED>
+
+<!ELEMENT plugin-fragment (doc?, attributes?, requires?, runtime?,
+                           (extension-point|extension)*)>
+<!ATTLIST plugin-fragment id              CDATA #REQUIRED>
+<!ATTLIST plugin-fragment version         CDATA #REQUIRED>
+<!ATTLIST plugin-fragment vendor          CDATA #IMPLIED>
+<!ATTLIST plugin-fragment plugin-id       CDATA #REQUIRED>
+<!ATTLIST plugin-fragment plugin-version  CDATA #IMPLIED>
+<!ATTLIST plugin-fragment match           (equal | equivalent | compatible
+                                          | greater-or-equal) "compatible">
+<!ATTLIST plugin-fragment docs-path       CDATA #IMPLIED>
+
+<!ELEMENT attributes (attribute+)>
+
+<!ELEMENT attribute (doc?, attribute*)>
+<!ATTLIST attribute id     CDATA #REQUIRED>
+<!ATTLIST attribute value  CDATA #IMPLIED>
+
+<!ELEMENT doc (doc-ref*, doc-text?)>
+<!ATTLIST doc caption  CDATA #IMPLIED>
+
+<!ELEMENT doc-ref EMPTY>
+<!ATTLIST doc-ref path     CDATA #REQUIRED>
+<!ATTLIST doc-ref caption  CDATA #REQUIRED>
+
+<!ELEMENT doc-text (#PCDATA)>
+
+<!ELEMENT requires (import+)>
+
+<!ELEMENT import (doc?)>
+<!ATTLIST import id              CDATA #IMPLIED>
+<!ATTLIST import plugin-id       CDATA #REQUIRED>
+<!ATTLIST import plugin-version  CDATA #IMPLIED>
+<!ATTLIST import match           (equal | equivalent | compatible
+                                 | greater-or-equal) "compatible">
+<!ATTLIST import exported        (true | false) "false">
+<!ATTLIST import optional        (true | false) "false">
+<!ATTLIST import reverse-lookup  (true | false) "false">
+
+<!ELEMENT runtime (library+)>
+
+<!ELEMENT library (doc?, export*)>
+<!ATTLIST library id       CDATA #REQUIRED>
+<!ATTLIST library path     CDATA #REQUIRED>
+<!ATTLIST library type     (code | resources) #REQUIRED>
+<!ATTLIST library version  CDATA #IMPLIED>
+
+<!ELEMENT export EMPTY>
+<!ATTLIST export prefix  CDATA #REQUIRED>
+
+<!ELEMENT extension-point (doc?, parameter-def*)>
+<!ATTLIST extension-point id                CDATA #REQUIRED>
+<!ATTLIST extension-point parent-plugin-id  CDATA #IMPLIED>
+<!ATTLIST extension-point parent-point-id   CDATA #IMPLIED>
+<!ATTLIST extension-point extension-multiplicity  (any | one | one-per-plugin
+                                                  | none) "any">
+
+<!ELEMENT parameter-def (doc?, parameter-def*)>
+<!ATTLIST parameter-def id             CDATA #REQUIRED>
+<!ATTLIST parameter-def multiplicity   (one | any | none-or-one | one-or-more)
+                                       "one">
+<!ATTLIST parameter-def type           (string | boolean | number | date | time
+                                       | date-time | null | any | plugin-id
+									   | extension-point-id | extension-id
+									   | fixed | resource) "string">
+<!ATTLIST parameter-def custom-data    CDATA #IMPLIED>
+<!ATTLIST parameter-def default-value  CDATA #IMPLIED>
+
+
+<!ELEMENT extension (doc?, parameter*)>
+<!ATTLIST extension plugin-id  CDATA #REQUIRED>
+<!ATTLIST extension point-id   CDATA #REQUIRED>
+<!ATTLIST extension id         CDATA #REQUIRED>
+
+<!ELEMENT parameter (doc?, value?, parameter*)>
+<!ATTLIST parameter id     CDATA #REQUIRED>
+<!ATTLIST parameter value  CDATA #IMPLIED>
+
+<!ELEMENT value (#PCDATA)>
+]>
+
+<plugin id="logicaldoc-ce-parser" version="8.9.1" class="com.logicaldoc.parser.ParserPlugin">
+	<requires>
+		<import plugin-id="logicaldoc-core" />
+	</requires>
+
+	<extension plugin-id="logicaldoc-core" point-id="Parser" id="docxParser">
+		<parameter id="extension" value="docx" />
+		<parameter id="class" value="com.logicaldoc.parser.OpenXMLParser" />
+	</extension>
+
+	<extension plugin-id="logicaldoc-core" point-id="Parser" id="xlsxParser2">
+		<parameter id="extension" value="xlsx" />
+		<parameter id="class" value="com.logicaldoc.parser.OpenXMLParser" />
+	</extension>
+			
+    <extension plugin-id="logicaldoc-core" point-id="Parser" id="pptxParser2">
+		<parameter id="extension" value="pptx" />
+		<parameter id="class" value="com.logicaldoc.parser.OpenXMLParser" />
+	</extension>
+	<extension plugin-id="logicaldoc-core" point-id="Parser" id="gifParser">
+		<parameter id="extension" value="gif" />
+		<parameter id="class" value="com.logicaldoc.parser.ImageParser" />
+	</extension>
+	<extension plugin-id="logicaldoc-core" point-id="Parser" id="pngParser">
+		<parameter id="extension" value="png" />
+		<parameter id="class" value="com.logicaldoc.parser.ImageParser" />
+	</extension>
+	<extension plugin-id="logicaldoc-core" point-id="Parser" id="tiffParser">
+		<parameter id="extension" value="tiff" />
+		<parameter id="class" value="com.logicaldoc.parser.ImageParser" />
+	</extension>
+	<extension plugin-id="logicaldoc-core" point-id="Parser" id="tiffParser2">
+		<parameter id="extension" value="tif" />
+		<parameter id="class" value="com.logicaldoc.parser.ImageParser" />
+	</extension>
+	<extension plugin-id="logicaldoc-core" point-id="Parser" id="jpegParser">
+		<parameter id="extension" value="jpg" />
+		<parameter id="class" value="com.logicaldoc.parser.ImageParser" />
+	</extension>
+	<extension plugin-id="logicaldoc-core" point-id="Parser" id="jpegParser2">
+		<parameter id="extension" value="jpeg" />
+		<parameter id="class" value="com.logicaldoc.parser.ImageParser" />
+	</extension>
+
+	<extension plugin-id="logicaldoc-core" point-id="Parser" id="pdfParser">
+		<parameter id="extension" value="pdf" />
+		<parameter id="class" value="com.logicaldoc.parser.CommunityPDFParser" />
+	</extension>
+
+	<extension plugin-id="logicaldoc-core" point-id="Parser" id="emlParser">
+		<parameter id="extension" value="eml" />
+		<parameter id="class" value="com.logicaldoc.parser.EMLParser" />
+	</extension>
+	<extension plugin-id="logicaldoc-core" point-id="Parser" id="msgParser">
+		<parameter id="extension" value="msg" />
+		<parameter id="class" value="com.logicaldoc.parser.MsgParser" />
+	</extension>
+			
+</plugin>

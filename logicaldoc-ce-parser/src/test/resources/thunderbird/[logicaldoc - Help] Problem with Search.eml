@@ -1,0 +1,51 @@
+X-Account-Key: account2
+X-UIDL: 1243936181.28526.mxavas1.fe.aruba.it,S=1971
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <noreply@sourceforge.net>
+Delivered-To: a.gasparini@logicalobjects.it
+Received: (qmail 28518 invoked by uid 89); 2 Jun 2009 09:49:41 -0000
+Received: by simscan 1.2.0 ppid: 28418, pid: 28477, t: 0.5253s
+         scanners: clamav: 0.90.3/m:43 spam: 3.1.4
+X-Spam-Checker-Version: SpamAssassin 3.2.4 (2008-01-01) on mxavas1.fe.aruba.it
+X-Spam-Level: *
+X-Spam-Status: No, score=1.1 required=5.0 tests=BAYES_50,RDNS_NONE
+	autolearn=no version=3.2.4
+Received: from unknown (HELO ch3.sourceforge.net) (216.34.181.60)
+  by mxavas1.fe.aruba.it with SMTP; 2 Jun 2009 09:49:40 -0000
+Received: from www by 155xhf1.ch3.sourceforge.com with local (Exim 4.69)
+	(envelope-from <noreply@sourceforge.net>)
+	id 1MBQcT-0003aN-KI; Tue, 02 Jun 2009 09:49:21 +0000
+To: noreply@sourceforge.net
+From: "SourceForge.net" <noreply@sourceforge.net>
+Subject: [logicaldoc - Help] Problem with Search
+Mime-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Message-Id: <7422426.865524@sourceforge.net>
+Date: Tue, 02 Jun 2009 09:49:21 +0000
+
+
+Read and respond to this message at: 
+https://sourceforge.net/forum/message.php?msg_id=7422426
+By: jo_pa
+
+Hello,
+I am facing a strange phenomenon in LogicalDoc. I have a document with the title
+'testDoc1'. When I search for testDoc1, LogicalDoc finds it, so far so good.
+Being curious,  I rename the title of this document to 'testDoc2' directly in
+my database (Mysql) and I see that its title has also changed to testDoc2 in
+LogicalDoc. Things look good until I want to search for 'testDoc2'. Here starts
+the sad story; LD will not find testDoc2 by no means and whats strange is that
+when I search 'testDoc1' LD finds the document although such document does not
+logically exist in LogicalDoc because I have renamed it to testDoc2.
+Any clues?
+
+Regards   
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to SourceForge.net and visit: 
+https://sourceforge.net/forum/unmonitor.php?forum_id=865524
+
+

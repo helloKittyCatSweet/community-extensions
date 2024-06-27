@@ -1,0 +1,64 @@
+X-Account-Key: account2
+X-UIDL: 1246816185.19045.mxavas10.fe.aruba.it,S=2734
+X-Mozilla-Status: 0003
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <abid@luniweb.com>
+Delivered-To: a.gasparini@logicalobjects.it
+Received: (qmail 19043 invoked by uid 89); 5 Jul 2009 17:49:45 -0000
+Delivered-To: logicaldoc.it-translations@logicaldoc.it
+Received: (qmail 19041 invoked by uid 89); 5 Jul 2009 17:49:45 -0000
+Received: by simscan 1.2.0 ppid: 18900, pid: 18923, t: 1.6694s
+         scanners: clamav: 0.90.3/m:/d:3620 spam: 3.2.0
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mxavas10.fe.aruba.it
+X-Spam-Level: *
+X-Spam-Status: No, score=1.1 required=5.0 tests=BAYES_50,HTML_MESSAGE,
+	RDNS_NONE autolearn=disabled version=3.2.5
+Received: from unknown (HELO ks28382.kimsufi.com) (91.121.93.57)
+  by mxavas10.fe.aruba.it with SMTP; 5 Jul 2009 17:49:44 -0000
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by ks28382.kimsufi.com (Postfix) with ESMTP id 8876683C002
+	for <translations@logicaldoc.it>; Sun,  5 Jul 2009 20:12:06 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at 
+Received: from ks28382.kimsufi.com ([127.0.0.1])
+	by localhost (ks28382.kimsufi.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id g3zgVP4C9UdX for <translations@logicaldoc.it>;
+	Sun,  5 Jul 2009 20:12:01 +0200 (CEST)
+Received: from ks28382.kimsufi.com (ks28382.kimsufi.com [91.121.93.57])
+	by ks28382.kimsufi.com (Postfix) with ESMTP id EF4B083C001
+	for <translations@logicaldoc.it>; Sun,  5 Jul 2009 20:12:01 +0200 (CEST)
+Date: Sun, 5 Jul 2009 20:12:01 +0200 (CEST)
+From: Rochdi ABID <abid@luniweb.com>
+To: translations@logicaldoc.it
+Message-ID: <24059550.32641246817521898.JavaMail.root@ks28382.kimsufi.com>
+In-Reply-To: <33273604.32621246817202925.JavaMail.root@ks28382.kimsufi.com>
+Subject: Arabic Language
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1894_25601983.1246817521897"
+X-Originating-IP: [41.225.235.134]
+X-Mailer: Zimbra 5.0.6_GA_2313.UBUNTU6 (ZimbraWebClient - FF3.0 (Linux)/5.0.6_GA_2313.UBUNTU6)
+
+------=_Part_1894_25601983.1246817521897
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hi Translation Teams 
+
+I'm Rochdi ABID from Tunisia, i'm wanting to translate LogicalDoc to Arabic Language. It's this possible ?? 
+
+NB: Arabic is a RTL language. 
+
+Thank You So Much. 
+
+Rochdi ABID 
++216 20 22 32 82 
+
+------=_Part_1894_25601983.1246817521897
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><style type='text/css'>p { margin: 0; }</style></head><body><div style='font-family: Times New Roman; font-size: 8Impr; color: #000000'>Hi Translation Teams<br><br>I'm Rochdi ABID from Tunisia, i'm wanting to translate LogicalDoc to Arabic Language. It's this possible ??<br><br>NB: Arabic is a RTL language.<br><br>Thank You So Much.<br><br>Rochdi ABID<br>+216 20 22 32 82<br></div></body></html>
+------=_Part_1894_25601983.1246817521897--
+
+

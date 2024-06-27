@@ -1,0 +1,212 @@
+X-Account-Key: account2
+X-UIDL: 1248279137.17989.mxavas13.fe.aruba.it,S=7687
+X-Mozilla-Status: 0013
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <marinvlas@gmail.com>
+Delivered-To: a.gasparini@logicalobjects.it
+Received: (qmail 17983 invoked by uid 89); 22 Jul 2009 16:12:17 -0000
+Received: by simscan 1.2.0 ppid: 17700, pid: 17719, t: 2.3574s
+         scanners: clamav: 0.90.3/m:43 spam: 3.1.7
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mxavas13.fe.aruba.it
+X-Spam-Level: *
+X-Spam-Status: No, score=1.1 required=5.0 tests=BAYES_50,RDNS_NONE
+	autolearn=disabled version=3.2.5
+Received: from unknown (HELO mail-bw0-f216.google.com) (209.85.218.216)
+  by mxavas13.fe.aruba.it with SMTP; 22 Jul 2009 16:12:15 -0000
+Received: by bwz12 with SMTP id 12so281265bwz.46
+        for <a.gasparini@logicalobjects.it>; Wed, 22 Jul 2009 09:12:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:received:received:message-id:date:from
+         :user-agent:mime-version:to:subject:references:in-reply-to
+         :content-type:content-transfer-encoding;
+        bh=uXo1XJ6S9oFv8JvFNGM+0d+vvjBf24U9hUBsyHtwoWs=;
+        b=O/WYQuGHcu0PNBhvHjH3xRpVk8XbLHkfINzbB8t19GX3g/wUjUjdJCUXx66hcGe3bw
+         tV1+kqx0NYwCxtutIje82/1UfzORuNEJGLX7TfKVhIrV3JTYypTGcCh2b1B7qAOcbMCF
+         7UCWkg6j6hIaaSc6k505WcuwjqHqsvR4cVZ7E=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=message-id:date:from:user-agent:mime-version:to:subject:references
+         :in-reply-to:content-type:content-transfer-encoding;
+        b=oplRgtFmhrIE4UXFsZd2NkmoSKPSIeI3AxyEW5vlu3fzD3GMapGjD1sECE1Or/YFt9
+         FgrjUIE+EnCeppePMxbZbKivriMirl63HG8qYFgC5aKrwCF1EsV1K19vPf3IU3uNI47j
+         +J/iLCDQeOUN7Mb230G8cAbJktpQ2phHQnRGQ=
+Received: by 10.103.172.9 with SMTP id z9mr570584muo.58.1248279135984;
+        Wed, 22 Jul 2009 09:12:15 -0700 (PDT)
+Return-Path: <marinvlas@gmail.com>
+Received: from ?192.168.1.2? (athedsl-4488504.home.otenet.gr [94.71.73.64])
+        by mx.google.com with ESMTPS id t10sm2646282muh.0.2009.07.22.09.12.07
+        (version=TLSv1/SSLv3 cipher=RC4-MD5);
+        Wed, 22 Jul 2009 09:12:14 -0700 (PDT)
+Message-ID: <4A673A69.8010002@gmail.com>
+Date: Wed, 22 Jul 2009 19:12:25 +0300
+From: Marinos Vlasakis <marinvlas@gmail.com>
+User-Agent: Thunderbird 2.0.0.22 (Windows/20090605)
+MIME-Version: 1.0
+To: Alessandro Gasparini <a.gasparini@logicalobjects.it>
+Subject: Re: greek translation for LogicalDoc DMS
+References: <5b57231c0905280342s2fb03507lfaafae2401a4c125@mail.gmail.com> <4A238193.1010004@logicalobjects.it> <4A2435E2.1000000@gmail.com> <4A255A86.9060304@logicalobjects.it> <4A2A5AF8.4060700@gmail.com> <4A2F7B70.3020905@logicalobjects.it>
+In-Reply-To: <4A2F7B70.3020905@logicalobjects.it>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Hi Alessandro,
+
+I tested the new version of LogicalDoc (4.5.1) and it works fine.
+thanks
+
+Marinos
+
+
+Alessandro Gasparini wrote:
+> Hi Marinos,
+>
+> i've published the plugin to support the Greek Language,
+> anyway on my system i've replicated the problems you've found.
+> You could download and test it on your LD 4.5 RC3 installation.
+> https://sourceforge.net/project/showfiles.php?group_id=239244&package_id=295104&release_id=683666
+> <https://sourceforge.net/project/showfiles.php?group_id=239244&package_id=295104&release_id=683666>
+> Now i think that we should start an issue in the Bug-tracker of LogicalDOC
+> this allows us to concentrate all informations regarding the problem.
+>
+> I've just created the issue in 
+> http://www.logicaldoc.info/mantis/view.php?id=110
+> the ID of the issue is: 0000110
+>
+> Cheers and many thanks for the translation
+>
+>         Alessandro
+>
+>
+> Marinos Vlasakis ha scritto:
+>> Hi Alessandro,
+>> I'm sending you the Greek translation for LD4.5 and a zipped pdf file 
+>> that explains the character problem.
+>>
+>> Regards
+>> Marinos
+>>
+>> Alessandro Gasparini wrote:
+>>> Hi Marinos,
+>>>
+>>> attached you can find the updated properties for the Greek support 
+>>> in LD 4.5,
+>>> can you please review and complete the translations?
+>>> If you complete those translations we can produce the localization 
+>>> plugin
+>>>
+>>> As for the file names of the document ASAP we will approach the 
+>>> problem.
+>>>
+>>> Best regards
+>>>
+>>>      A. Gasparini
+>>>
+>>> N.B.: Can you send to us some screenshots showing the character 
+>>> problem ?
+>>>
+>>>
+>>> Marinos Vlasakis ha scritto:
+>>>> Hi Alessandro,
+>>>>
+>>>> Thanks for the reply. You are right: the indexing of greek 
+>>>> documents works very well on LogicalDoc 4.5 RC2.
+>>>> I can search the documents using greek words.
+>>>>
+>>>> But still, there is a problem with the name of the file: if it is 
+>>>> in greek then the name of the document is stored by the system, 
+>>>> using strange characters.
+>>>> Perhaps the problem has to do with how java handles the file-name 
+>>>> encoding (i don't think that this has to do with postgresql).
+>>>>
+>>>> I'd be very glad if i can help the Logicaldoc CE project.
+>>>>
+>>>> Regards
+>>>> Marinos
+>>>>
+>>>>
+>>>> Alessandro Gasparini wrote:
+>>>>> Hi Marinos,
+>>>>>
+>>>>> unfortunately there is a small problem.
+>>>>> As for the indexing of documents on LogicalDOC 4.0.2 at present 
+>>>>> you can not run for the Greek language.
+>>>>> This is because the search functions are based on Lucene - 
+>>>>> Snowball and there is no implementation for the Greek.
+>>>>> If you wish our company Logical Objects could give you an estimate 
+>>>>> of the days required for development.
+>>>>>
+>>>>> With LogicalDOC 4.5 we have surpassed this problem, so I would 
+>>>>> advise you to begin to assess this new platform that can properly 
+>>>>> index your files.
+>>>>> In the meantime we begin the development of the plugin and then we 
+>>>>> will send you the translation file to be completed for LogicalDOC 
+>>>>> 4.5.
+>>>>>
+>>>>> Best regards
+>>>>>      A. Gasparini
+>>>>>
+>>>>> -- 
+>>>>> ---------------------------------------------------------------
+>>>>> Alessandro Gasparini
+>>>>> e-mail: a.gasparini@logicalobjects.it 
+>>>>> <mailto:a.gasparini@logicalobjects.it>
+>>>>> ---------------------------------------------------------------
+>>>>> Logical Objects snc
+>>>>> Via Bonasi, 2/A 41012 Carpi (MO) Italy
+>>>>> Tel./Fax. 059 688969
+>>>>> web: http://www.logicalobjects.it
+>>>>>
+>>>>>
+>>>>>
+>>>>> marinos vl ha scritto:
+>>>>>>
+>>>>>> I'm sending you the greek translation for the logicaldoc CE 402 DMS.
+>>>>>> The .zip file contains only the "application_el.properties" file 
+>>>>>> in utf-8 and java character encoding.
+>>>>>> The Java character encoded file works fine when it is copied in 
+>>>>>> the "...\WEB-INF\classes\i18n" folder,
+>>>>>> as "application_en.properties".
+>>>>>>
+>>>>>> Still, there is a problem with the character encoding of the 
+>>>>>> uploaded document filename:
+>>>>>> if the filename of the uploaded document is in greek, when i try 
+>>>>>> to download it from the logicaldoc-system
+>>>>>>  the filename contains wrong characters.
+>>>>>>
+>>>>>>
+>>>>>> marinos
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>
+>>>>>
+>>>>
+>>>>
+>>>
+>>> -- 
+>>> ---------------------------------------------------------------
+>>> Alessandro Gasparini
+>>> e-mail: a.gasparini@logicalobjects.it 
+>>> <mailto:a.gasparini@logicalobjects.it>
+>>> ---------------------------------------------------------------
+>>> Logical Objects snc
+>>> Via Bonasi, 2/A 41012 Carpi (MO) Italy
+>>> Tel./Fax. 059 688969
+>>> web: http://www.logicalobjects.it
+>>>
+>
+> -- 
+> ---------------------------------------------------------------
+> Alessandro Gasparini
+> e-mail: a.gasparini@logicalobjects.it 
+> <mailto:a.gasparini@logicalobjects.it>
+> ---------------------------------------------------------------
+> Logical Objects snc
+> Via Bonasi, 2/A 41012 Carpi (MO) Italy
+> Tel./Fax. 059 688969
+> web: http://www.logicalobjects.it
+>
+
+

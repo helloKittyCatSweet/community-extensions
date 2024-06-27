@@ -1,0 +1,237 @@
+X-Account-Key: account2
+X-UIDL: 1246844735.19213.mxavas2.fe.aruba.it,S=8430
+X-Mozilla-Status: 0003
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <zhaopin_1@163.com>
+Delivered-To: a.gasparini@logicalobjects.it
+Received: (qmail 19211 invoked by uid 89); 6 Jul 2009 01:45:35 -0000
+Received: by simscan 1.2.0 ppid: 18648, pid: 18817, t: 3.9695s
+         scanners: clamav: 0.90.3/m:/d:3620 spam: 3.2.0
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mxavas2.fe.aruba.it
+X-Spam-Level: **
+X-Spam-Status: No, score=2.7 required=5.0 tests=BAYES_50,DEAR_SOMETHING,
+	HTML_MESSAGE,RDNS_NONE autolearn=disabled version=3.2.5
+Received: from unknown (HELO m13-167.163.com) (220.181.13.167)
+  by mxavas2.fe.aruba.it with SMTP; 6 Jul 2009 01:45:31 -0000
+Received: from zhaopin_1 (  [58.61.188.5] ) by ajax-webmail-wmsvr167
+ (Coremail) ; Mon, 6 Jul 2009 09:45:25 +0800 (CST)
+Date: Mon, 6 Jul 2009 09:45:25 +0800 (CST)
+From: ZhaoDream <zhaopin_1@163.com>
+To: "Alessandro Gasparini" <a.gasparini@logicalobjects.it>
+Message-ID: <12085375.280521246844725292.JavaMail.coremail@app167.163.com>
+In-Reply-To: <4A4DBEB4.3050300@logicalobjects.it>
+References: <4A4DBEB4.3050300@logicalobjects.it>
+ <5582311.231246600745808.JavaMail.root@95.110.142.119>
+Subject: =?gbk?Q?=BB=D8=B8=B4:LogicalDOC_Chinese_localization?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_75538_3403975.1246844725291"
+X-Originating-IP: [58.61.188.5]
+X-Priority: 1
+X-Mailer: Coremail Webmail Server Version XT2_snapshot build
+ 090618(8092.2435.2417) Copyright (c) 2002-2009 www.mailtech.cn 163com
+X-CM-TRANSID: p8GowKA7CBQ3V1FKuVADAA--.46628W
+X-CM-SenderInfo: p2kd01plqbiqqrwthudrp/1tbiHgqXUD-6SqT+dQABsy
+X-Coremail-Antispam: 1Ur529EdanIXcx71UUUUU7IcSsGvfJTRUUUjZkYjxAI6xAIw2
+	8IcVW8ZrWlb7IF0VCF04k20xvEw2I207IF0wAYjxAI6xCIbckI1I0E57IF64kEYxAxM2kK
+	6IIYrVAqxI0j4VAqrcv_Jw1UGr1DMc804VCqF7xvr2I5M4IEnf9ElVAFpTB2q-sK649IAa
+	s0WaI_GwCFI7vE84CIb48I67vvx24lV2xY67k0a2IF6r1UMIAIbVAYFVCjjxCrMIAIbVAF
+	YI0v6xAq04vm52xtMIAIbVAFxVCF77xC64kEw24lV2xY67C26IkvcIIF6IxKo4kEV4ylV2
+	xY6c02F40E57IF67AEF4xIwI1lV2xY6c02F40EFcxC0VAKzVAqx4xG6I80ewCS07vEYx0E
+	74AGY7Cv6cx26r1lV2xY6cIj6xIIjxv20xvE14v26r1Y6r17MIAIbVAv7VC2z280aVAFwI
+	0_Jr0_Gr1lV2xY6x02cVCv0xWlV2xY6xkFs20EY4vE8sxKj4xv1wCS07vEc7Ca8VAvwVCj
+	b41lV2xY6xkFs20EY4vE44CYbxCE8IxJMIAIbVCY02Avz4vE14v_KwCS07vEc2IjII80xc
+	xEwVWxJVW3JwCS07vE4x8a6x804xWlV2xY6I8E67AF67kF1VAFwI0_Jr0_JrDvcSsGvfC2
+	KfnxnUU==
+
+------=_Part_75538_3403975.1246844725291
+Content-Type: text/plain; charset=gbk
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sir,
+Thanks for your reply, I just want to share my files with my coworkers,but =
+they can not understand all English GUI.So I try to escape the English GUI =
+to Chinese GUI.
+When I translated all words in application_en.properties to Chinese (E.g. a=
+bout =3D =B9=D8=D3=DA), I ran LogicalDoc, but I just see many unknow charac=
+ters, all chinese characters become messy code. I think it because differen=
+t coder.Your system is UTF-8 or ANSI, but our OS use GB2312.
+I am looking forward to your reply.
+=20
+Best wishes !
+=20
+Derek
+=20
+=20
+=20
+=20
+=20
+
+
+=20
+
+
+=D4=DA2009-07-03=A3=AC"Alessandro Gasparini" <a.gasparini@logicalobjects.it=
+> =D0=B4=B5=C0=A3=BA
+>Hi Mr. Derek,
+>
+>also we'd love to turn on support for the Chinese language.
+>
+>To activate this support, there are several steps to be done.
+>First we need to translate the graphical user interface (GUI).
+>
+>Subsequently there is the need to change a bit of code on the software=20
+>to handle correctly the the file names with Chinese ideograms.
+>
+>Last  we must change the indexer to extract with the correct encoding=20
+>the content of electronic documents.
+>
+>The first step involves the creation of a plugin to support localization.
+>Some tests have already been made about the interface and the program=20
+>can be easily localized.
+>
+>However, you can find instructions on this url:
+>https://sourceforge.net/project/shownotes.php?group_id=3D239244&release_id=
+=3D686360
+><https://sourceforge.net/project/shownotes.php?group_id=3D239244&release_i=
+d=3D686360>
+>You can also find more information on the Help forum of LogicalDOC
+>https://sourceforge.net/forum/message.php?msg_id=3D7460515
+>https://sourceforge.net/forum/forum.php?thread_id=3D3313146&forum_id=3D865=
+524=20
+><https://sourceforge.net/forum/forum.php?thread_id=3D3313146&forum_id=3D86=
+5524>
+>
+>If your company is interested in marketing or purchasing LogicalDOC we=20
+>can offer support or you could decide to sign an agreement as=20
+>implementation partner.
+>
+>Best regards
+>      A. Gasparini
+>---------------------------------------------------------------
+>Alessandro Gasparini
+>e-mail: a.gasparini@logicalobjects.it <mailto:a.gasparini@logicalobjects.i=
+t>
+>---------------------------------------------------------------
+>Logical Objects snc
+>Via Bonasi, 2/A 41012 Carpi (MO) Italy
+>Tel./Fax. 059 688969
+>web: http://www.logicalobjects.it
+>
+>
+>
+>info@logicaldoc.it ha scritto:
+>> Name
+>> Derek.zhao
+>>
+>> Company
+>> Sunshine Tech
+>>
+>> E-mail
+>> zhaopin_1@163.com
+>>
+>> Message
+>> I want to know how to add local language (e.g. Chinese) to logicaldoc?
+>>  =20
+
+------=_Part_75538_3403975.1246844725291
+Content-Type: text/html; charset=gbk
+Content-Transfer-Encoding: quoted-printable
+
+<DIV>Dear Sir,</DIV>
+<DIV>Thanks for your reply, I just want to share my files with my coworkers=
+,but they can not&nbsp;understand&nbsp;all&nbsp;English GUI.So I try to&nbs=
+p;escape the English GUI to Chinese GUI.</DIV>
+<DIV>When I translated all words in application_en.properties to Chinese (E=
+g. about =3D =B9=D8=D3=DA), I ran LogicalDoc, but I just see many unknow c=
+haracters, all chinese characters become messy code. I think it because dif=
+ferent coder.Your system is UTF-8 or ANSI, but our OS use GB2312.</DIV>
+<DIV>I am looking forward to your reply.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Best wishes !</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Derek</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><BR><BR>&nbsp;</DIV>
+<DIV></DIV><BR><PRE>=D4=DA2009-07-03=A3=AC"Alessandro Gasparini" &lt;a.gasp=
+arini@logicalobjects.it&gt; =D0=B4=B5=C0=A3=BA
+&gt;Hi Mr. Derek,
+&gt;
+&gt;also we'd love to turn on support for the Chinese language.
+&gt;
+&gt;To activate this support, there are several steps to be done.
+&gt;First we need to translate the graphical user interface (GUI).
+&gt;
+&gt;Subsequently there is the need to change a bit of code on the software=
+=20
+&gt;to handle correctly the the file names with Chinese ideograms.
+&gt;
+&gt;Last  we must change the indexer to extract with the correct encoding=
+=20
+&gt;the content of electronic documents.
+&gt;
+&gt;The first step involves the creation of a plugin to support localizatio=
+n.
+&gt;Some tests have already been made about the interface and the program=
+=20
+&gt;can be easily localized.
+&gt;
+&gt;However, you can find instructions on this url:
+&gt;https://sourceforge.net/project/shownotes.php?group_id=3D239244&amp;rel=
+ease_id=3D686360
+&gt;&lt;https://sourceforge.net/project/shownotes.php?group_id=3D239244&amp=
+;release_id=3D686360&gt;
+&gt;You can also find more information on the Help forum of LogicalDOC
+&gt;https://sourceforge.net/forum/message.php?msg_id=3D7460515
+&gt;https://sourceforge.net/forum/forum.php?thread_id=3D3313146&amp;forum_i=
+d=3D865524=20
+&gt;&lt;https://sourceforge.net/forum/forum.php?thread_id=3D3313146&amp;for=
+um_id=3D865524&gt;
+&gt;
+&gt;If your company is interested in marketing or purchasing LogicalDOC we=
+=20
+&gt;can offer support or you could decide to sign an agreement as=20
+&gt;implementation partner.
+&gt;
+&gt;Best regards
+&gt;      A. Gasparini
+&gt;---------------------------------------------------------------
+&gt;Alessandro Gasparini
+&gt;e-mail: a.gasparini@logicalobjects.it &lt;mailto:a.gasparini@logicalobj=
+ects.it&gt;
+&gt;---------------------------------------------------------------
+&gt;Logical Objects snc
+&gt;Via Bonasi, 2/A 41012 Carpi (MO) Italy
+&gt;Tel./Fax. 059 688969
+&gt;web: http://www.logicalobjects.it
+&gt;
+&gt;
+&gt;
+&gt;info@logicaldoc.it ha scritto:
+&gt;&gt; Name
+&gt;&gt; Derek.zhao
+&gt;&gt;
+&gt;&gt; Company
+&gt;&gt; Sunshine Tech
+&gt;&gt;
+&gt;&gt; E-mail
+&gt;&gt; zhaopin_1@163.com
+&gt;&gt;
+&gt;&gt; Message
+&gt;&gt; I want to know how to add local language (e.g. Chinese) to logical=
+doc?
+&gt;&gt;  =20
+</PRE><br><!-- footer --><br><span title=3D"neteasefooter"/><hr/>
+<a href=3D"http://count.mail.163.com/redirect/footer.htm?f=3Dhttp://gouwu.y=
+oudao.com">200=CD=F2=D6=D6=C9=CC=C6=B7,=D7=EE=B5=CD=BC=DB=B8=F1,=B7=E8=BF=
+=F1=D3=D5=BB=F3=C4=E3</a>
+</span>
+------=_Part_75538_3403975.1246844725291--
+
+
+

@@ -1,0 +1,206 @@
+X-Account-Key: account2
+X-UIDL: 1248270784.21363.mxavas17.fe.aruba.it,S=8982
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <federico@ricercazione.it>
+Delivered-To: a.gasparini@logicalobjects.it
+Received: (qmail 21124 invoked by uid 89); 22 Jul 2009 13:53:02 -0000
+Received: by simscan 1.2.0 ppid: 19226, pid: 20876, t: 1.9709s
+         scanners: clamav: 0.90.3/m: spam: 3.2.0
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mxavas17.fe.aruba.it
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.5 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RDNS_NONE,SPF_HELO_PASS autolearn=disabled version=3.2.5
+Received: from unknown (HELO averell.mail.tiscali.it) (213.205.33.55)
+  by mxavas17.fe.aruba.it with SMTP; 22 Jul 2009 13:53:00 -0000
+Received: from [192.168.0.4] (84.222.172.106) by averell.mail.tiscali.it (8.0.022)
+        id 49CBA13704003382; Wed, 22 Jul 2009 15:52:53 +0200
+Cc: Simone Zanni <s.zanni@nstore.it>,
+ Massimo De Simone <m.desimone@nstore.it>,
+ Francesco Mistura <francesco@ricercazione.it>
+Message-Id: <E98A7ED9-A483-4D62-A066-C5B88F6CE274@ricercazione.it>
+From: Federico Gerardi <federico@ricercazione.it>
+To: Alessandro Gasparini <a.gasparini@logicalobjects.it>
+In-Reply-To: <4A671125.3060104@logicalobjects.it>
+Content-Type: multipart/alternative; boundary=Apple-Mail-1--619368428
+Mime-Version: 1.0 (Apple Message framework v935.3)
+Subject: Re: NokiaShop.it attivato plugin ottimizzaz. motori All in One SEO
+Date: Wed, 22 Jul 2009 15:52:51 +0200
+References: <4A671125.3060104@logicalobjects.it>
+X-Mailer: Apple Mail (2.935.3)
+
+
+--Apple-Mail-1--619368428
+Content-Type: text/plain;
+	charset=ISO-8859-1;
+	format=flowed;
+	delsp=yes
+Content-Transfer-Encoding: quoted-printable
+
+Ciao Alessandro,
+
+ottimo lavoro per quanto riguarda il SEO plugin. Invito Simone ad =20
+inserire le informazioni testuali di descrizione del blog e condivido =20=
+
+l'indicazione di lasciare le checkbox come sono.
+
+Con il plugin installato, Simone potr=E0 inserire per ciascun post una =20=
+
+differente descrizione (sintesi del contenuto del post) e le parole =20
+chiave ottimizzate.
+
+Per quanto riguarda nokia.nstore.it, mi sembra di aver capito che =20
+Display generer=E0 la landing page a partire da un sorgente dati fornito =
+=20
+dalla piattaforma di ecommerce di Nstore e per attivarla, occorre =20
+redirigere il record dns del sottodominio sull'ip che display dovr=E0 =20=
+
+fornire.
+
+Invito quindi Alessandro a contattare direttamente il referente di =20
+Display per ricevere le indicazioni tecniche.
+
+Grazie e buon lavoro, Federico
+
+
+Il giorno 22/lug/09, alle ore 15:16, Alessandro Gasparini ha scritto:
+
+> Vi invio la seguente per informarvi che abbiamo provveduto ad =20
+> attivare il plugin
+> All in One SEO per la installazione Wordpress 2.7.1 di NokiaShop.it
+>
+> Questo plugin consente di ottimizzare le pagine per i motori di =20
+> ricerca e di specificare
+> i metadata di informazione come il titolo, la descrizione e le =20
+> parole chiavi sulla Home Page.
+>
+> Per il momento io ho inserito dei dati temporanei,
+> per modificarli =E8 sufficiente accedere all'internod ella interfaccia =
+=20
+> di amministrazione alle opzioni di questo plugin:
+>
+> Impostazioni --> All in One SEO
+>
+> Per il momento lascerei tutte i checkbox come di default e vi =20
+> suggerisco di adeguare invece le parti testuali
+> a vostro piacimento. (titolo, descrizione, parole chiave)
+>
+> Per quanto riguarda invece il dominio di 3=B0 livello
+> nokia.nstore.it
+>
+> =E8 gi=E0 attivo,
+> quando volete possiamo redirezionarlo verso Display,
+> oppure Display ci deve fornire la landing page e la installiamo in =20
+> locale sul server di NStore
+>
+> Saluti
+>      Alessandro
+>
+> --=20
+> ---------------------------------------------------------------
+> Alessandro Gasparini
+> e-mail: a.gasparini@logicalobjects.it
+> ---------------------------------------------------------------
+> Logical Objects snc
+> Via Bonasi, 2/A 41012 Carpi (MO) Italy
+> Tel./Fax. 059 688969
+> web: http://www.logicalobjects.it
+>
+> <Logical-Objects_plain_sm.gif>
+> <ScreenHunter_02 Jul. 22 15.09.gif>
+
+-------------------------------------------
+
+Federico Gerardi
+Ricercazione snc
+federico@ricercazione.it
+
+T +39 0722 986530
+F +39 0722 540233
+
+
+--Apple-Mail-1--619368428
+Content-Type: text/html;
+	charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space; "><div>Ciao =
+Alessandro,</div><div><br></div><div>ottimo lavoro per quanto riguarda =
+il SEO plugin. Invito Simone ad inserire le informazioni testuali di =
+descrizione del blog e condivido l'indicazione di lasciare le checkbox =
+come sono.</div><div><br></div><div>Con il plugin installato, Simone =
+potr=E0 inserire per ciascun post una differente descrizione (sintesi =
+del contenuto del post) e le parole chiave =
+ottimizzate.</div><div><br></div><div>Per quanto riguarda =
+nokia.nstore.it, mi sembra di aver capito che Display generer=E0 la =
+landing page a partire da un sorgente dati fornito dalla piattaforma di =
+ecommerce di Nstore e per attivarla, occorre redirigere il record dns =
+del sottodominio sull'ip che display dovr=E0 =
+fornire.</div><div><br></div><div>Invito quindi Alessandro a contattare =
+direttamente il referente di Display per ricevere le indicazioni =
+tecniche.</div><div><br></div><div>Grazie e buon lavoro, =
+Federico</div><div><br></div><br><div><div>Il giorno 22/lug/09, alle ore =
+15:16, Alessandro Gasparini ha scritto:</div><br =
+class=3D"Apple-interchange-newline"><blockquote type=3D"cite"> <div =
+bgcolor=3D"#ffffff" text=3D"#000000"> Vi invio la seguente per =
+informarvi che abbiamo provveduto ad attivare il plugin<br> All in One =
+SEO per la installazione Wordpress 2.7.1 di NokiaShop.it<br> <br> Questo =
+plugin consente di ottimizzare le pagine per i motori di ricerca e di =
+specificare<br> i metadata di informazione come il titolo, la =
+descrizione e le parole chiavi sulla Home Page.<br> <br> Per il momento =
+io ho inserito dei dati temporanei,<br> per modificarli =E8 sufficiente =
+accedere all'internod ella interfaccia di amministrazione alle opzioni =
+di questo plugin:<br> <br> Impostazioni --&gt; All in One SEO<br> <br> =
+Per il momento lascerei tutte i checkbox come di default e vi suggerisco =
+di adeguare invece le parti testuali<br> a vostro piacimento. (titolo, =
+descrizione, parole chiave)<br> <br> Per quanto riguarda invece il =
+dominio di 3=B0 livello<br> nokia.nstore.it<br> &nbsp;<br> =E8 gi=E0 =
+attivo, <br> quando volete possiamo redirezionarlo verso Display,<br> =
+oppure Display ci deve fornire la landing page e la installiamo in =
+locale sul server di NStore<br> <br> Saluti<br> &nbsp;&nbsp;&nbsp;&nbsp; =
+Alessandro<br> <br> <div class=3D"moz-signature">-- <br> <font =
+face=3D"Arial, Helvetica, sans-serif" =
+size=3D"2">---------------------------------------------------------------=
+<br> Alessandro Gasparini<br> e-mail: <a =
+href=3D"mailto:a.gasparini@logicalobjects.it">a.gasparini@logicalobjects.i=
+t</a><br> =
+<font>---------------------------------------------------------------<br> =
+Logical Objects snc<br> Via Bonasi, 2/A 41012 Carpi (MO) Italy<br> =
+Tel./Fax. 059 688969<br> web: <a =
+href=3D"http://www.logicalobjects.it">http://www.logicalobjects.it</a> =
+<br> <br> =
+<span>&lt;Logical-Objects_plain_sm.gif&gt;</span></font></font> </div> =
+</div>  <span>&lt;ScreenHunter_02 Jul. 22 =
+15.09.gif&gt;</span></blockquote></div><br><div =
+apple-content-edited=3D"true"> <span class=3D"Apple-style-span" =
+style=3D"border-collapse: separate; color: rgb(0, 0, 0); font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; =
+white-space: normal; widows: 2; word-spacing: 0px; =
+-webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: =
+0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: =
+auto; -webkit-text-stroke-width: 0; "><div style=3D"word-wrap: =
+break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space; "><span class=3D"Apple-style-span" =
+style=3D"border-collapse: separate; color: rgb(0, 0, 0); font-family: =
+Helvetica; font-size: 12px; font-style: normal; font-variant: normal; =
+font-weight: normal; letter-spacing: normal; line-height: normal; =
+orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; =
+widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; =
+-webkit-border-vertical-spacing: 0px; =
+-webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: =
+auto; -webkit-text-stroke-width: 0px; "><div style=3D"word-wrap: =
+break-word; -webkit-nbsp-mode: space; -webkit-line-break: =
+after-white-space; =
+"><div>-------------------------------------------</div><div><br></div><di=
+v>Federico Gerardi</div><div>Ricercazione snc</div><div><a =
+href=3D"mailto:federico@ricercazione.it">federico@ricercazione.it</a></div=
+><div><br></div><div>T +39 0722 986530</div><div>F +39&nbsp;0722 =
+540233</div></div></span></div></span> </div><br></body></html>=
+
+--Apple-Mail-1--619368428--
+
+

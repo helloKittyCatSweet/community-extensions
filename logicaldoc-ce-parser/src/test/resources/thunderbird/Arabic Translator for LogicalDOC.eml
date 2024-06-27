@@ -1,0 +1,72 @@
+X-Account-Key: account2
+X-UIDL: 1248797614.12644.mxavas7.fe.aruba.it,S=3013
+X-Mozilla-Status: 0013
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <jllsela@gmail.com>
+Delivered-To: a.gasparini@logicalobjects.it
+Received: (qmail 12641 invoked by uid 89); 28 Jul 2009 16:13:34 -0000
+Received: by simscan 1.2.0 ppid: 12373, pid: 12462, t: 1.7012s
+         scanners: clamav: 0.90.3/m:/d:3620 spam: 3.2.0
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on mxavas7.fe.aruba.it
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.5 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RDNS_NONE autolearn=disabled version=3.2.5
+Received: from unknown (HELO mx.sourceforge.net) (216.34.181.68)
+  by mxavas7.fe.aruba.it with SMTP; 28 Jul 2009 16:13:32 -0000
+Received-SPF: pass (72vjzd1.ch3.sourceforge.com: domain of gmail.com designates 209.85.222.186 as permitted sender) client-ip=209.85.222.186; envelope-from=jllsela@gmail.com; helo=mail-pz0-f186.google.com;
+Received: from mail-pz0-f186.google.com ([209.85.222.186])
+	by 72vjzd1.ch3.sourceforge.com with esmtp 
+	(Exim 4.69)
+	id 1MVpIq-0000tJ-P1
+	for blucecio@users.sourceforge.net; Tue, 28 Jul 2009 16:13:33 +0000
+Received: by pzk16 with SMTP id 16so91245pzk.20
+        for <blucecio@users.sourceforge.net>; Tue, 28 Jul 2009 09:13:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:in-reply-to:references
+         :date:message-id:subject:from:to:content-type;
+        bh=+SpYP/rW+koLSLxGMshhgx3iyEDP5l4V9TtX8ID6e5E=;
+        b=jjNQralg+J+EdMMTukx1sfRnUZcObmwdLsVsXHPhRiQcaYIR38Bu23Y+PCaIpjTC/V
+         frQSJrgEDUGA49mLRk+Nm/xz5DOajpzHVlTQ90RHc//krAGqg9vIDYFmKM5+B08CKmjQ
+         L8WZgVMKjbEQLNjpWeiJG+XAJ2MxQBXY3mLpg=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=gULsFicxgYNar3lncj6bTzJGUgd1RqjCIfRvPO3qgtckuDmx5t+LfknOS3MDYWadkg
+         gJO8qg6wASilebzTSuzhpZqct9ny2UX2l11jBrDFSCaf5x7BDMBhn+kvkSlR9CUkLcrf
+         0C8Q6NEurEKufNrO1aGvUycNd2E0xrzkVJgms=
+MIME-Version: 1.0
+Received: by 10.220.73.5 with SMTP id o5mr4751160vcj.112.1248797596122; Tue, 
+	28 Jul 2009 09:13:16 -0700 (PDT)
+In-Reply-To: <E1MVmEA-00063N-7D@665xhf1.ch3.sourceforge.com>
+References: <E1MVmEA-00063N-7D@665xhf1.ch3.sourceforge.com>
+Date: Tue, 28 Jul 2009 11:13:16 -0500
+Message-ID: <6b93aa620907280913x45fe6408ne421f347a77ab756@mail.gmail.com>
+Subject: Re: Arabic Translator for LogicalDOC
+From: Jalal Sela <jllsela@gmail.com>
+To: "A. Gasparini - Logical Objects" <blucecio@users.sourceforge.net>
+Content-Type: multipart/alternative; boundary=0016363108371d2e50046fc65956
+X-Headers-End: 1MVpIq-0000tJ-P1
+
+--0016363108371d2e50046fc65956
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+Hello
+Thank you for your replay, and yes I am interested.
+-- 
+Jalal A. H. Sela
+
+--0016363108371d2e50046fc65956
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello=A0<div><br></div><div>Thank you for your replay, and yes I am interes=
+ted.=A0<br>-- <br>Jalal A. H. Sela<br>
+</div>
+
+--0016363108371d2e50046fc65956--
+
+
