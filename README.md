@@ -1,9 +1,9 @@
-===================
+===================<br/>
 # LOGICALDOC COMMUNITY EXTENSIONS
-===================
-Plugin extensions for LogicalDOC Community
+===================<br/>
+Plugin extensions for LogicalDOC Community<br/>
 
-LogicalDOC Community Extensions add new features to version 8.9.1 of LogicalDOC.
+LogicalDOC Community Extensions add new features to version 8.9.1 of [LogicalDOC](https://www.logicaldoc.com).<br/>
 In particular there are 3 new plugins that provide the following features:
 
 1) logicaldoc-ce-parser (extracting text from many types of office documents)
@@ -28,15 +28,15 @@ Ubuntu
 http://docs.logicaldoc.com/en/installation/install-on-ubuntu/install-third-party-software-ubuntu
 
 
-Tesseract:
-after installing Tesseract, configure the path of the executable in the LogicalDOC configuration file /conf/context.properties by modifying the properties
-ocr.Tesseract.path=C:\\LogicalDOC\\tesseract\\tesseract.exe
-ocr.enabled=true
+Tesseract:<br/>
+after installing Tesseract, configure the path of the executable in the LogicalDOC configuration file /conf/context.properties by modifying the properties<br/>
+ocr.Tesseract.path=C:\\LogicalDOC\\tesseract\\tesseract.exe<br/>
+ocr.enabled=true<br/>
 
-LibreOffice: 
-after installing Tesseract, configure the path of the executable in /conf/context.properties by modifying the properties
-converter.LibreOfficeConverter.enabled=true
-converter.LibreOfficeConverter.path=C:\\Program Files\\LibreOffice
+LibreOffice: <br/>
+after installing Tesseract, configure the path of the executable in /conf/context.properties by modifying the properties<br/>
+converter.LibreOfficeConverter.enabled=true<br/>
+converter.LibreOfficeConverter.path=C:\\Program Files\\LibreOffice<br/>
 
 Note: remember that from version 8.8.3 it is necessary to set the commands that LogicalDOC can launch on the operating system in the /conf/allowed-commands.txt file
 
