@@ -30,13 +30,24 @@ http://docs.logicaldoc.com/en/installation/install-on-ubuntu/install-third-party
 
 Tesseract:<br/>
 after installing Tesseract, configure the path of the executable in the LogicalDOC configuration file /conf/context.properties by modifying the properties<br/>
-ocr.Tesseract.path=C:\\LogicalDOC\\tesseract\\tesseract.exe<br/>
-ocr.enabled=true<br/>
+<pre>
+  <code>
+ocr.Tesseract.path=C:\\LogicalDOC\\tesseract\\tesseract.exe
+ocr.enabled=true
+  </code>
+</pre>  
 
 LibreOffice: <br/>
 after installing Tesseract, configure the path of the executable in /conf/context.properties by modifying the properties<br/>
-converter.LibreOfficeConverter.enabled=true<br/>
-converter.LibreOfficeConverter.path=C:\\Program Files\\LibreOffice<br/>
+<pre>
+  <code>
+converter.LibreOfficeConverter.enabled=true
+converter.LibreOfficeConverter.path=C:\\Program Files\\LibreOffice
+      </code>
+</pre>  
 
 Note: remember that from version 8.8.3 it is necessary to set the commands that LogicalDOC can launch on the operating system in the /conf/allowed-commands.txt file
 
+### License
+[LogicalDOC Community Edition](https://www.logicaldoc.com/download-logicaldoc-community) is made available to the Open Source community under the [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+The LogicalDOC source code is available for the entire community, which is free to use, modify and redistribute under the premises of such license.
