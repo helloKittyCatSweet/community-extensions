@@ -1,9 +1,7 @@
-# community-extensions
+===================
+# LOGICALDOC COMMUNITY EXTENSIONS
+===================
 Plugin extensions for LogicalDOC Community
-
-===================
-LOGICALDOC COMMUNITY EXTENSIONS
-===================
 
 LogicalDOC Community Extensions add new features to version 8.9.1 of LogicalDOC.
 In particular there are 3 new plugins that provide the following features:
@@ -22,21 +20,26 @@ LibreOffice, Tesseract, ImageMagick and GhostScript.
 For information on how to install third-party software, refer to the following addresses.
 
 Windows
-<http://docs.logicaldoc.com/en/installation/install-on-windows/install-third-party-software-windows>
+
+http://docs.logicaldoc.com/en/installation/install-on-windows/install-third-party-software-windows
 
 Linux
-<http://docs.logicaldoc.com/en/installation/install-on-linux/install-third-party-software-linux>
+
+http://docs.logicaldoc.com/en/installation/install-on-linux/install-third-party-software-linux
 
 Ubuntu
-<http://docs.logicaldoc.com/en/installation/install-on-ubuntu/install-third-party-software-ubuntu>
+
+http://docs.logicaldoc.com/en/installation/install-on-ubuntu/install-third-party-software-ubuntu
 
 
 Tesseract:
+
 after installing Tesseract, configure the path of the executable in the LogicalDOC configuration file /conf/context.properties by modifying the properties
 ocr.Tesseract.path=C:\\LogicalDOC\\tesseract\\tesseract.exe
 ocr.enabled=true
 
 LibreOffice: 
+
 after installing Tesseract, configure the path of the executable in /conf/context.properties by modifying the properties
 converter.LibreOfficeConverter.enabled=true
 converter.LibreOfficeConverter.path=C:\\Program Files\\LibreOffice
