@@ -11,7 +11,7 @@ In particular there are 3 new plugins that provide the following features:
 3. logicaldoc-ce-converter (conversion of documents to other formats and for previews/thumbnail)
 
 It is possible to install these extensions on a LogicalDOC Community 8.9.1 by extracting the contents of the .zip archives in the folder
-tomcat/ROOT/WEB-INF/lib of your LogicalDOC installation
+tomcat/ROOT of your LogicalDOC installation
 
 These 3 plugins using third party software for OCR, image processing and format conversion in particular:
 LibreOffice, Tesseract, ImageMagick and GhostScript.
